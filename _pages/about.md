@@ -36,7 +36,7 @@ News
 
 \[2020.9]. Got two paper accepted to **NeurIPS 2020**. Thanks to all my collaborators!
 
-\[2020.9]. Got five first-authored paper accepted to **EMNLP 2020** (1 in main conference and 4 in findings) Thanks to all my collaborators!
+\[2020.9]. Got five paper accepted to **EMNLP 2020** (1 in main conference and 4 in findings) Thanks to all my collaborators!
 
 \[2019.12]. Got one paper accepted by **ICLR 2020**. See you in Addis Ababa.  
 
