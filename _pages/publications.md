@@ -8,6 +8,10 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2021
+* Reducing Generic Response and Better Dialogue History Modeling with Inverse Adversarial Training   
+  **Wangchunshu Zhou\***, Qifei Li\*, Chenle Li  
+  *in Proc. of **ACL 2021***  
+
 * Blow the Dog Whistle: A Chinese Dataset for Cant Understandingwith Common Sense and World Knowledge   
   Canwen Xu\*, **Wangchunshu Zhou\***, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Furu Wei](http://mindio.org/)  
   *in Proc. of **NAACL 2021***  
