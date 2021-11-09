@@ -8,6 +8,14 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2021
+* Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression    
+  Canwen Xu\*, **Wangchunshu Zhou\***, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Furu Wei](http://mindio.org/)  
+  *in Proc. of **EMNLP 2021 (Oral)***  
+
+* Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting  
+  **Wangchunshu Zhou**, Tao Ge, [Canwen Xu](https://www.canwenxu.net/), [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/)  
+  *in Proc. of **EMNLP 2021***
+
 * Reducing Generic Response and Better Dialogue History Modeling with Inverse Adversarial Training   
   **Wangchunshu Zhou\***, Qifei Li\*, Chenle Li  
   *in Proc. of **ACL 2021***  
