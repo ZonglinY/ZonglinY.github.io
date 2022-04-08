@@ -9,11 +9,11 @@ author_profile: true
 
 ## 2022
 * BERT Learns to Teach: Knowledge Distillation with Meta Learning  
-  **Wangchunshu Zhou\***, Canwen Xu\*, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)
+  **Wangchunshu Zhou\***, Canwen Xu\*, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)  
   *in Proc. of **ACL 2022***  
   
 * Contextual Representation Learning beyond Masked Language Modeling    
-  Zhiyi Fu\*, **Wangchunshu Zhou\***, Jingjing Xu*, Hao Zhou, Lei Li. 
+  Zhiyi Fu\*, **Wangchunshu Zhou\***, Jingjing Xu*, Hao Zhou, Lei Li  
   *in Proc. of **ACL 2022***  
   
 ## 2021
