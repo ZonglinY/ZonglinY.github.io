@@ -8,6 +8,10 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2022
+* VLUE: A Multi-Task Benchmark for Evaluating  Vision-Language Models    
+  **Wangchunshu Zhou\***, Yan Zeng\*, Shizhe Diao\*, Xinsong Zhang\*
+  *in Proc. of **ICML 2022***  
+  
 * BERT Learns to Teach: Knowledge Distillation with Meta Learning  
   **Wangchunshu Zhou\***, Canwen Xu\*, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)  
   *in Proc. of **ACL 2022***  
