@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2022
 * VLUE: A Multi-Task Benchmark for Evaluating  Vision-Language Models    
-  **Wangchunshu Zhou\***, Yan Zeng\*, Shizhe Diao\*, Xinsong Zhang\*
+  **Wangchunshu Zhou\***, Yan Zeng\*, Shizhe Diao\*, Xinsong Zhang\*  
   *in Proc. of **ICML 2022***  
   
 * BERT Learns to Teach: Knowledge Distillation with Meta Learning  
