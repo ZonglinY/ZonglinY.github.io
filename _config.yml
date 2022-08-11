@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : wangchunshu
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wangchunshu Zhou"
   avatar           : "profile.png"
-  bio              : "Master Student at Beihang University, an NLPer. "
-  location         : "Beijing"
+  bio              : "CS PhD student at ETH Zurich, an NLPer. "
+  location         : "Zurich"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UebIjuQAAAAJ&hl=zh-CN"
-  email            : "wcszhou@stanford.edu"
+  email            : "wangchunshu.zhou@inf.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
