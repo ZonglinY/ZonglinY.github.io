@@ -8,6 +8,10 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2022
+* Efficiently Tuned Parameters are Task Embeddings  
+  **Wangchunshu Zhou\***, Canwen Xu\*, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)  
+  *in Proc. of **EMNLP 2022***  
+  
 * VLUE: A Multi-Task Benchmark for Evaluating  Vision-Language Models    
   **Wangchunshu Zhou\***, Yan Zeng\*, Shizhe Diao\*, Xinsong Zhang\*  
   *in Proc. of **ICML 2022***  
