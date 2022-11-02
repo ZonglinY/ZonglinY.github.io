@@ -25,6 +25,8 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
+\[2022.10]. Got one paper accepted to **EMNLP 2022**. Thanks to all my collaborators and see you in Abu Dhabi!
+
 \[2022.5]. Got one paper accepted to **ICML 2022**. Thanks to all my collaborators!
 
 \[2022.1]. Got two papers accepted to **ACL 2022**. Thanks to all my collaborators!
@@ -43,11 +45,11 @@ News
 
 \[2020.9]. Got five paper accepted to **EMNLP 2020** (1 in main conference and 4 in findings) Thanks to all my collaborators!
 
-\[2019.12]. Got one paper accepted by **ICLR 2020**. See you in Addis Ababa.  
+\[2019.12]. Got one paper accepted by **ICLR 2020**. Thanks to all my collaborators!  
 
-\[2019.11]. Got one paper accepted by **AAAI 2020**. See you in New York.   
+\[2019.11]. Got one paper accepted by **AAAI 2020**. Thanks to all my collaborators!  
 
-\[2019.5\] Got one paper accepted by **ACL 2019**. See you in Firenze.  
+\[2019.5\] Got one paper accepted by **ACL 2019**. See you in Firenze! 
 
 \[2018.12\] Start my research internship at at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.  
 
