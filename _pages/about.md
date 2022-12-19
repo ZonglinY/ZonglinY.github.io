@@ -21,6 +21,7 @@ Specifically I am interested in the following research topics:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust NLP models for OOD samples and reducing spurious dataset biases.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Green NLP, Low resource NLP, and Learning NLP models from high-level supervision**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Multi-modality**  
 I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.  
 
 News
