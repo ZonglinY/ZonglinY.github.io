@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV available in PDF format.](/files/CV-chunshu.pdf)
+[CV available in PDF format.](/files/cv-202302.pdf)
 
 Education
 ======
