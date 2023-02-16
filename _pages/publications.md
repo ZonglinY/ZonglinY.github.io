@@ -7,6 +7,15 @@ author_profile: true
 
 (* indicates equal contribution)
 
+## 2023
+* Predicting Reference-Based MT Metrics Without the Reference  
+  Vilém Zouhar, Shehzaad Dhuliawala, **Wangchunshu Zhou**, Nico Daheim, Tom Kocmi, Yuchen Eleanor Jiang, Mrinmaya Sachan
+  *in Proc. of **EACL 2023***  
+  
+* Write and Paint: Generative Vision-Language Models are Unified Modal Learners  
+  Shizhe Diao, **Wangchunshu Zhou**, Xinsong Zhang, Jiawei Wang   
+  *in Proc. of **ICLR 2023***  
+
 ## 2022
 * Efficiently Tuned Parameters are Task Embeddings  
   **Wangchunshu Zhou\***, Canwen Xu\*, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)  
