@@ -26,6 +26,10 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
+\[2023.01]. Got one paper accepted to **ICLR 2023**. Thanks to all my collaborators!  
+
+\[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
+
 \[2022.10]. Got one paper accepted to **EMNLP 2022**. Thanks to all my collaborators and see you in Abu Dhabi!
 
 \[2022.5]. Got one paper accepted to **ICML 2022**. Thanks to all my collaborators!
