@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023
 * Predicting Reference-Based MT Metrics Without the Reference  
-  Vilém Zouhar, Shehzaad Dhuliawala, **Wangchunshu Zhou**, Nico Daheim, Tom Kocmi, Yuchen Eleanor Jiang, Mrinmaya Sachan
+  Vilém Zouhar, Shehzaad Dhuliawala, **Wangchunshu Zhou**, Nico Daheim, Tom Kocmi, Yuchen Eleanor Jiang, Mrinmaya Sachan  
   *in Proc. of **EACL 2023***  
   
 * Write and Paint: Generative Vision-Language Models are Unified Modal Learners  
