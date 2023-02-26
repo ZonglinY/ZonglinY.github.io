@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "Wangchunshu. Zhou"
+title                    : "Zonglin Yang"
 title_separator          : "-"
-name                     : &name "Wangchunshu Zhou"
-description              : &description "Incoming PhD Student at Stanford University"
-url                      : https://MichaelZhouwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zonglin Yang"
+description              : &description "PhD student at Nanyang Technological University"
+url                      : https://ZonglinY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MichaelZhouwang.github.io"
+repository               : "ZonglinY.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : wangchunshu
+  username               : Yang_zy223
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wangchunshu Zhou"
+  name             : "Zonglin Yang"
   avatar           : "profile.png"
-  bio              : "CS PhD student at ETH Zurich, an NLPer. "
-  location         : "Zurich"
+  bio              : "CS PhD student at NTU, an NLPer. "
+  location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=UebIjuQAAAAJ&hl=zh-CN"
-  email            : "wangchunshu.zhou@inf.ethz.ch"
+  googlescholar    : "https://scholar.google.com/citations?user=cTTRbeMAAAAJ&hl=en&oi=ao"
+  email            : "zonglin.yang at ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/wangchunshu.zhou.5"
+  facebook         : "https://www.facebook.com/zonglin.yang.378"
   foursquare       :
-  github           : "MichaelZhouwang"
+  github           : "ZonglinY"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E6%98%A5%E6%BE%8D-%E5%91%A8%E7%8E%8B-187145173/"
+  linkedin         : "https://www.linkedin.com/in/zonglin-yang-37291417a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wangchunshu"
+  twitter          : "Yang_zy223"
   vine             :
   weibo            :
   xing             :
