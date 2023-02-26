@@ -54,8 +54,8 @@ Journal Reviewer:
 * Cognitive Computation
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YRGrykBPpahx3PGSEvSxEgxL4CMmQCpR10FpVR2MVTE&cl=ffffff&w=a"></script>
-
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YRGrykBPpahx3PGSEvSxEgxL4CMmQCpR10FpVR2MVTE&cl=ffffff&w=a"></script>
+ -->
 <!-- \[2018.12\] Start my research internship at at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.  
 
 \[2018.8\] Start my Master study at NLSDE Lab in Beihang University, advised by Prof. Ke Xu   -->
