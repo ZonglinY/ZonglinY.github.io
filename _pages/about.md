@@ -20,7 +20,7 @@ Some of my past representative research are:
 
 (1) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
 
-(2) Bridging research from classic AI (knowledge representation and reasoning) to Natural Language Processing, e.g., [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
+(2) Bridging research from classic AI (Knowledge Representation and Reasoning) to Natural Language Processing, e.g., [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
 
 
 <!-- My primary research goal is to apply Deep Learning for Natural Language Processing and develop **Language Technology for All**. To achievethis goal and make language technology accessible in most people’s lives, I identify two major research topics that I’m interested in: **efficiency** and **trustworthiness** of NLP models. Efficiency involves both the amount of **computation** and **data** required for (pre-)training and using NLP models. Trustworthiness involves the **interpretability**, **fairness**, and **robustness** with respect to adversarial attacks and out-of-distribution samples.  
@@ -32,11 +32,27 @@ Specifically I am interested in the following research topics:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Green NLP, Low resource NLP, and Learning NLP models from high-level supervision**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Multi-modality**   -->
-I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.  
+<!-- I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.   -->
 
 News
 ======
 \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
+
+\[2020.10]. Got one paper accepted to **EMNLP 2020 (findings)**. Thanks to all my collaborators!  
+
+
+Academic Services
+======
+
+##### Conference Reviewer: 
+* ACL 2023
+
+##### Journal Reviewer: 
+* IEEE Transactions on Affective Computing
+* Knowledge-Based Systems
+* Information Fusion
+* Artificial Intelligence Review
+* Cognitive Computation
 
 
 <!-- \[2018.12\] Start my research internship at at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.  
