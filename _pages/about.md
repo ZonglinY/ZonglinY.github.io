@@ -19,7 +19,7 @@ Some of my past representative research are:
 
 (1) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
 
-(2) Bridging research from classic AI (Knowledge Representation and Reasoning) to Natural Language Processing, e.g., [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
+(2) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
 
 
 <!-- My primary research goal is to apply Deep Learning for Natural Language Processing and develop **Language Technology for All**. To achievethis goal and make language technology accessible in most people’s lives, I identify two major research topics that I’m interested in: **efficiency** and **trustworthiness** of NLP models. Efficiency involves both the amount of **computation** and **data** required for (pre-)training and using NLP models. Trustworthiness involves the **interpretability**, **fairness**, and **robustness** with respect to adversarial attacks and out-of-distribution samples.  
