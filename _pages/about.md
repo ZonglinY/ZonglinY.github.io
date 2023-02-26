@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Zonglin Yang**, a first-year Ph.D. student in Nanyang Technological Univeristy, supervised by [Erik Cambria](https://sentic.net/about/). I obtained my undergraduate’s degree at Huazhong Univeristy of Science and Technology, supervised by [Xinggang Wang](https://xinggangw.info/). I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/).
-Previously, I interned at Microsoft Research Asia with [Li Dong](http://dong.li/).
+Hello! I am **Zonglin Yang**, a first-year Ph.D. student in Nanyang Technological Univeristy, supervised by [Erik Cambria](https://sentic.net/about/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong Univeristy of Science and Technology, supervised by [Xinggang Wang](https://xinggangw.info/). Previously, I interned at Microsoft Research Asia mentored by [Li Dong](http://dong.li/).
 
 
 Research
