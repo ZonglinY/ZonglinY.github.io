@@ -13,7 +13,7 @@ Hello! I am **Zonglin Yang**, a first-year Ph.D. student in Nanyang Technologica
 
 Research
 ======
-My current research centered around knowledge & reasoning in Natural Language Processing.
+My current research centered around Knowledge & Reasoning in Natural Language Processing.
 
 Some of my past representative research are:
 
