@@ -44,10 +44,10 @@ News
 Academic Services
 ======
 
-##### Conference Reviewer: 
+Conference Reviewer: 
 * ACL 2023
 
-##### Journal Reviewer: 
+Journal Reviewer: 
 * IEEE Transactions on Affective Computing
 * Knowledge-Based Systems
 * Information Fusion
