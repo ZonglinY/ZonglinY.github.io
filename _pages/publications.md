@@ -13,7 +13,6 @@ author_profile: true
 
   
 ## 2020
-
 * Improving Event Duration Prediction via Time-aware Pre-training
   **Zonglin Yang**, Xinya Du, Alexander Rush, Claire Cardie
   *in Proc. of **EMNLP 2020 (Findings)***
