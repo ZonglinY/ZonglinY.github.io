@@ -17,7 +17,9 @@ Research
 My current research centered around knowledge & reasoning in Natural Language Processing.
 
 Some of my past representative research are:
+
 (1) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
+
 (2) Bridging research from classic AI (knowledge representation and reasoning) to Natural Language Processing, e.g., [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
 
 
