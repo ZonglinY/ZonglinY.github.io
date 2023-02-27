@@ -21,7 +21,7 @@ Some of my past representative research are:
 
 (2) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
 
-(3) Improving [temporal commonsense reasoning](https://aclanthology.org/2020.findings-emnlp.302/) via distant supervision.
+(3) Improving [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) via distant supervision.
 
 
 
