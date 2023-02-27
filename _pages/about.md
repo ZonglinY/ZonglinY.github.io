@@ -13,13 +13,16 @@ Hello! I am **Zonglin Yang**, a first-year Ph.D. student at Nanyang Technologica
 
 Research
 ======
-My current research centered around Knowledge & Reasoning in Natural Language Processing.
+My current research center around Knowledge & Reasoning in Natural Language Processing.
 
 Some of my past representative research are:
 
-(1) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
+(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
 
-(2) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
+(2) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
+
+(3) Improving [temporal commonsense reasoning](https://aclanthology.org/2020.findings-emnlp.302/) via distant supervision.
+
 
 
 <!-- My primary research goal is to apply Deep Learning for Natural Language Processing and develop **Language Technology for All**. To achievethis goal and make language technology accessible in most people’s lives, I identify two major research topics that I’m interested in: **efficiency** and **trustworthiness** of NLP models. Efficiency involves both the amount of **computation** and **data** required for (pre-)training and using NLP models. Trustworthiness involves the **interpretability**, **fairness**, and **robustness** with respect to adversarial attacks and out-of-distribution samples.  
