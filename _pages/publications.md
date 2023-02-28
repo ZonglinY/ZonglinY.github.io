@@ -18,3 +18,12 @@ author_profile: true
   **Zonglin Yang**, Xinya Du, Alexander Rush, Claire Cardie  
   *in Proc. of **EMNLP 2020 (Findings)***  
   [[pdf]](https://aclanthology.org/2020.findings-emnlp.302.pdf) [[collected data]](https://github.com/ZonglinY/Improving-Event-Duration-Prediction-via-Time-aware-Pre-training)
+  
+  
+# Preprint
+## 2022
+* Language Models as Inductive Reasoners  
+  **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
+  [[pdf]](https://arxiv.org/pdf/2212.10923.pdf)
+  
+
