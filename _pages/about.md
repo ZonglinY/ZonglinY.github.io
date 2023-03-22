@@ -19,9 +19,9 @@ Some of my past representative research are:
 
 (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
 
-(2) A [Survey](https://arxiv.org/pdf/2303.12023.pdf) on Logical Reasoning over Natural Language as Knowledge Representation. It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.  
+(2) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation. It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.  
 
-![Alt text](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/images/LRNL.pdf)
+<!-- ![Alt text](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/images/LRNL.pdf) -->
 
 
 (3) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
