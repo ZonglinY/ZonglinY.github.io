@@ -21,6 +21,11 @@ author_profile: true
   
   
 # Preprint
+## 2023 
+* Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
+  **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
+  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come)  
+
 ## 2022
 * Language Models as Inductive Reasoners  
   **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
