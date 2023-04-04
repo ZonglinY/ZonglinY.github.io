@@ -43,6 +43,10 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2023.04]. I'm planning to physically attend EACL 2023! Let me know if you want to chat with me in Dubrovnik! (if I can successfully get the visa)  
+
+\[2023.04]. Our EACL 2023 [paper](https://w.sentic.net/commonsense-knowledge-base-completion.pdf) will have an **oral** presentation!  
+
 \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
 
 \[2020.10]. Got one paper accepted to **EMNLP 2020 (findings)**. Thanks to all my collaborators!  
