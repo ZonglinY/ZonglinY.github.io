@@ -43,7 +43,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2023.05]. Our inductive reasoning [paper](https://arxiv.org/pdf/2212.10923.pdf) receives very positive comments from meta-reviewer in ACL 2023 but is rejected!
+\[2023.05]. Our inductive reasoning [paper](https://arxiv.org/pdf/2212.10923.pdf) receives very positive comments from meta-reviewer in ACL 2023 but is rejected! (ACL 2023 excitement score pre-rebuttal: 4, 4, 2.5; after rebuttal: 4, 3.5, 2.5; ACL meta agrees with our rebuttal against r3; AAAI 2023 score: 7, 7, 4, 4)
 
 \[2023.04]. ~~I'm planning to physically attend EACL 2023! Let me know if you want to chat with me in Dubrovnik! (if I can successfully get the visa)~~(No I can't get the visa!)
 
