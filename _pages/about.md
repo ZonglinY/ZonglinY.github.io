@@ -17,7 +17,7 @@ My current research center around Knowledge & Reasoning in Natural Language Proc
 
 Some of my past representative research are:
 
-(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](http://sentic.net/commonsense-knowledge-base-completion.pdf).
+(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
 
 (2) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
 
@@ -43,9 +43,11 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2023.04]. I'm planning to physically attend EACL 2023! Let me know if you want to chat with me in Dubrovnik! (if I can successfully get the visa)  
+\[2023.05]. Our inductive reasoning [paper](https://arxiv.org/pdf/2212.10923.pdf) receives very positive comments from meta-reviewer in ACL 2023 but is rejected!
 
-\[2023.04]. Our EACL 2023 [paper](https://w.sentic.net/commonsense-knowledge-base-completion.pdf) will have an **oral** presentation!  
+\[2023.04]. ~~I'm planning to physically attend EACL 2023! Let me know if you want to chat with me in Dubrovnik! (if I can successfully get the visa)~~(No I can't get the visa!)
+
+\[2023.04]. Our EACL 2023 [paper](https://aclanthology.org/2023.eacl-main.255.pdf) will have an **oral** presentation!  
 
 \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
 
