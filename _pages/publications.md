@@ -7,6 +7,11 @@ author_profile: true
 
 
 ## 2023
+* Finding the Pillars of Strength for Multi-Head Attention  
+  Jinjie Ni, Rui Mao, **Zonglin Yang**, Han Lei, Erik Cambria  
+  *in Proc. of **ACL 2023***  
+  [[pdf]](https://arxiv.org/pdf/2305.14380.pdf) [[code]](https://github.com/Psycoy/ACL-2023-Grouped-Head-Attention)
+
 * End-to-end Case-Based Reasoning for Commonsense Knowledge Base Completion  
   **Zonglin Yang**, Xinya Du, Erik Cambria, Claire Cardie  
   *in Proc. of **EACL 2023** **(oral)***  
