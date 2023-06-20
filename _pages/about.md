@@ -43,9 +43,9 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2023.06]. Our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf) paper has been offered an invited talk at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on July 17th!  
+\[2023.06]. I will take an invited talk at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf) paper on July 17th!  
 
-\[2023.05]. Our [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) will be present at ACL 2023 [NLRSE workshop](https://nl-reasoning-workshop.github.io/) on July 13th!  
+\[2023.05]. Our [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) will be present at ACL 2023 [NLRSE workshop](https://nl-reasoning-workshop.github.io/) (in a non-archival way) on July 13th!  
 
 \[2023.05]. Got one paper accepted to **ACL 2023**. Congrats to Jinjie!
 
