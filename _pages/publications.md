@@ -34,6 +34,6 @@ author_profile: true
 ## 2022
 * Language Models as Inductive Reasoners  
   **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
-  [[pdf]](https://arxiv.org/pdf/2212.10923.pdf)
+  [[pdf]](https://arxiv.org/pdf/2212.10923.pdf) [[Dataset]](https://github.com/ZonglinY/Inductive_Reasoning)  
   
 
