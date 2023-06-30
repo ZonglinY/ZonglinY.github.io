@@ -64,14 +64,14 @@ Academic Services
 ======
 
 Conference Reviewer: 
-* EMNLP 2023, ACL 2023, EMNLP 2022, COLING 2022
+* EMNLP 2023, ACL 2023, EMNLP 2022, COLING 2022  
 
-Journal Reviewer: 
+<!-- Journal Reviewer: 
 * IEEE Transactions on Affective Computing
 * Knowledge-Based Systems
 * Information Fusion
 * Artificial Intelligence Review
-* Cognitive Computation  
+* Cognitive Computation  -->
 
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YRGrykBPpahx3PGSEvSxEgxL4CMmQCpR10FpVR2MVTE&cl=ffffff&w=a"></script>
