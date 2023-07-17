@@ -15,7 +15,7 @@ author_profile: true
 * End-to-end Case-Based Reasoning for Commonsense Knowledge Base Completion  
   **Zonglin Yang**, Xinya Du, Erik Cambria, Claire Cardie  
   *in Proc. of **EACL 2023** **(oral)***  
-  [[pdf]](https://aclanthology.org/2023.eacl-main.255.pdf) [[code]](https://github.com/ZonglinY/ECBRF_Case_Based_Reasoning_with_PLM)
+  [[pdf]](https://aclanthology.org/2023.eacl-main.255.pdf) [[code]](https://github.com/ZonglinY/ECBRF_Case_Based_Reasoning_with_PLM) [[EACL 2023 slides]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/EACL%20presentation.pptx) [[ICCBR 2023 TMG/BEAR workshop slides]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/ICCBR_workshop_ECBRF.pptx)
 
   
 ## 2020
@@ -29,7 +29,7 @@ author_profile: true
 ## 2023 
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
   **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
-  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come)  
+  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf)  
 
 ## 2022
 * Language Models as Inductive Reasoners  
