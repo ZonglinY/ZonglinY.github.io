@@ -24,7 +24,7 @@ author_profile: true
 # Publications
 ## 2023
 * A Survey on Semantic Processing Techniques  
-  **Zonglin Yang***, Rui Mao*, Kai He*, Xulang Zhang*, Guanyi Chen*, Jinjie Ni*, Erik Cambria  
+  **Zonglin Yang\***, Rui Mao\*, Kai He\*, Xulang Zhang\*, Guanyi Chen\*, Jinjie Ni\*, Erik Cambria  
   *in **Information Fusion***  
   [[pdf]](https://ww.sentic.net/survey-on-semantic-processing-techniques.pdf)
   
