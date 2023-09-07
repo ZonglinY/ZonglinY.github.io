@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am **Zonglin Yang**, a second-year Ph.D. student at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). Previously, I interned at Microsoft Research Asia mentored by [Li Dong](http://dong.li/).
 
-I am open to academic collaborations and please drop me an email (zonglin.yang@ntu.edu.sg) if you are interested in collaborating with me.
+I am open to academic collaborations and please drop me an email (<zonglin.yang@ntu.edu.sg>) if you are interested in collaborating with me.
 
 
 Research
