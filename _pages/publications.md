@@ -5,8 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Preprint
+## 2023 
+* Large Language Models for Automated Open-domain Scientific Hypotheses Discovery  
+  **Zonglin Yang**, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria  
+  [[pdf]](https://arxiv.org/pdf/2309.02726.pdf) [[Dataset and Code]](https://github.com/ZonglinY/MOOSE)
 
+* Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
+  **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
+  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)
+
+## 2022
+* Language Models as Inductive Reasoners  
+  **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
+  [[pdf]](https://arxiv.org/pdf/2212.10923.pdf) [[Dataset and Code]](https://github.com/ZonglinY/Inductive_Reasoning)  
+  
+
+# Publications
 ## 2023
+* A Survey on Semantic Processing Techniques  
+  **Zonglin Yang***, Rui Mao*, Kai He*, Xulang Zhang*, Guanyi Chen*, Jinjie Ni*, Erik Cambria  
+  *in **Information Fusion***  
+  [[pdf]](https://ww.sentic.net/survey-on-semantic-processing-techniques.pdf)
+  
 * Finding the Pillars of Strength for Multi-Head Attention  
   Jinjie Ni, Rui Mao, **Zonglin Yang**, Han Lei, Erik Cambria  
   *in Proc. of **ACL 2023***  
@@ -25,15 +46,5 @@ author_profile: true
   [[pdf]](https://aclanthology.org/2020.findings-emnlp.302.pdf) [[collected data]](https://github.com/ZonglinY/Improving-Event-Duration-Prediction-via-Time-aware-Pre-training)
   
   
-# Preprint
-## 2023 
-* Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
-  **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
-  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)
 
-## 2022
-* Language Models as Inductive Reasoners  
-  **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
-  [[pdf]](https://arxiv.org/pdf/2212.10923.pdf) [[Dataset]](https://github.com/ZonglinY/Inductive_Reasoning)  
-  
 
