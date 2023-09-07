@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Zonglin Yang**, a first-year Ph.D. student at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). Previously, I interned at Microsoft Research Asia mentored by [Li Dong](http://dong.li/).
+Hello! I am **Zonglin Yang**, a second-year Ph.D. student at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). Previously, I interned at Microsoft Research Asia mentored by [Li Dong](http://dong.li/).
 
 
 Research
 ======
-My current research center around Knowledge & Reasoning in Natural Language Processing.
+My current research center around (1) Knowledge & Reasoning in Natural Language Processing, and (2) AI for Science.
 
 Some of my past representative research are:
 
 (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
 
-(2) Analyze and augment existing pretrained (large) language model's ability on specified and fundamental types of reasoning, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf).
+(2) A [further work on inductive reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLMs to generate initial novel scientific hypotheses to assist scientists.
 
 (3) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation.  
 <!-- It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.   -->
@@ -43,6 +43,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2023.09]. Our preprint of [LLM & AI for Science](https://arxiv.org/pdf/2309.02726.pdf) is out.
+
 \[2023.06]. I will take an invited talk at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf) paper on July 17th!  
 
 \[2023.05]. Our [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) will be present at ACL 2023 [NLRSE workshop](https://nl-reasoning-workshop.github.io/) (in a non-archival way) on July 13th!  
