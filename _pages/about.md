@@ -10,16 +10,20 @@ redirect_from:
 
 Hello! I am **Zonglin Yang**, a second-year Ph.D. student at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). Previously, I interned at Microsoft Research Asia mentored by [Li Dong](http://dong.li/).
 
+I am actively looking for research collaborations! For master/undergrad students looking for research experience or PhD students looking for collaborations, please send me an email at zonglin.yang@ntu.edu.sg.
+
 
 Research
 ======
-My current research center around (1) Knowledge & Reasoning in Natural Language Processing, and (2) AI for Science.
+My current research center around:  
+(1) Reasoning & Knowledge in Natural Language Processing.  
+(2) AI for Science.
 
 Some of my past representative research are:
 
 (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
 
-(2) A [further work on inductive reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLMs to generate initial novel scientific hypotheses to assist scientists.
+(2) A [further work on inductive reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLM agents to generate initial novel scientific hypotheses to assist scientists.
 
 (3) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation.  
 <!-- It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.   -->
@@ -53,7 +57,7 @@ News
 
 \[2023.05]. Our inductive reasoning [paper](https://arxiv.org/pdf/2212.10923.pdf) receives very [positive comments](https://docs.google.com/document/d/1wBUL8f3HtR_DN8loGR5IhDjQawrxOykv22-NW-dzZPY/edit?usp=sharing) from meta-reviewer in ACL 2023 but is rejected! (ACL 2023 excitement score pre-rebuttal: 4, 4, 2.5; after rebuttal: 4, 3.5, 2.5; ACL meta agrees with our rebuttal against r3; AAAI 2023 score: 7, 7, 4, 4)
 
-\[2023.04]. ~~I'm planning to physically attend EACL 2023!~~ Let me know if you want to chat with me ~~in Dubrovnik! (if I can successfully get the visa)~~ (No I can't get the visa!)
+<!-- \[2023.04]. ~~I'm planning to physically attend EACL 2023!~~ Let me know if you want to chat with me ~~in Dubrovnik! (if I can successfully get the visa)~~ (No I can't get the visa!) -->
 
 \[2023.04]. Our EACL 2023 [paper](https://aclanthology.org/2023.eacl-main.255.pdf) will have an **oral** presentation!  
 
