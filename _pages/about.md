@@ -16,8 +16,8 @@ I am open to academic collaborations and please drop me an email (<zonglin.yang@
 Research
 ======
 My current research center around:  
-(1) Reasoning & Knowledge in Natural Language Processing.  
-(2) AI for Science.
+* Reasoning & Knowledge in Natural Language Processing.
+* AI for Science.
 
 Some of my past representative research are:
 
