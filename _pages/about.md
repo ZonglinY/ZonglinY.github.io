@@ -16,11 +16,13 @@ Hello! I am **Zonglin Yang**, a second-year Ph.D. student at Nanyang Technologic
 
 Research
 ======
-My current research center around:  
-* Reasoning & Knowledge in Natural Language Processing.
-* AI for Science.
+My current research interest center around:  
+* Alignment of LLMs (current research project).
+* LLM agents (current research project). 
+* AI for Science ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
+* Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
 
-Some of my past representative research are:
+More specifically about my past research:
 
 (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
 
