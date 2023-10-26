@@ -7,7 +7,7 @@ author_profile: true
 
 # Preprint
 ## 2023 
-* Large Language Models for Automated Open-domain Scientific Hypotheses Discovery  
+* Large Language Models for Automated Open-domain Scientific Hypotheses Discovery   
   **Zonglin Yang**, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria  
   [[pdf]](https://arxiv.org/pdf/2309.02726.pdf) [[Dataset and Code]](https://github.com/ZonglinY/MOOSE)
 
@@ -23,6 +23,11 @@ author_profile: true
 
 # Publications
 ## 2023
+* Task-Aware Self-Supervised Framework for Dialogue Discourse Parsing  
+  Wei Li, Luyao Zhu, Wei Shao, **Zonglin Yang**, Erik Cambria  
+  *in Proc. of **EMNLP 2023 (Findings)***  
+  [[pdf]](https://sentic.net/task-aware-self-supervised-dialogue-discourse-parsing.pdf) [[code]](https://github.com/senticnet/DialogDP)
+
 * A Survey on Semantic Processing Techniques  
   **Zonglin Yang\***, Rui Mao\*, Kai He\*, Xulang Zhang\*, Guanyi Chen\*, Jinjie Ni\*, Erik Cambria  
   *in **Information Fusion***  
