@@ -86,7 +86,8 @@ author:
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=cTTRbeMAAAAJ&hl=en&oi=ao"
+  # googlescholar    : "https://scholar.google.com/citations?user=cTTRbeMAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://www.semanticscholar.org/author/Zonglin-Yang/2124477940"
   email            : "zonglin.yang@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  semanticscholar  : https://www.semanticscholar.org/author/Zonglin-Yang/2124477940
+  semanticscholar  : "https://www.semanticscholar.org/author/Zonglin-Yang/2124477940"
 
 
 # Reading Files
