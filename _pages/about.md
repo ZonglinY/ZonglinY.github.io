@@ -50,6 +50,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2023.12]. I will physically attend EMNLP 2023 at Singapore! Please let me know if you want to chat with me!
+
 \[2023.10]. Got one paper accepted to **EMNLP 2023**. Congrats to Wei!
 
 \[2023.09]. Our preprint of [LLM & AI for Science](https://arxiv.org/pdf/2309.02726.pdf) is out.
