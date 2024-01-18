@@ -13,15 +13,18 @@ author_profile: true
 
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
   **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
-  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)
-
-## 2022
-* Language Models as Inductive Reasoners  
-  **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
-  [[pdf]](https://arxiv.org/pdf/2212.10923.pdf) [[Dataset and Code]](https://github.com/ZonglinY/Inductive_Reasoning)  
+  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)  
   
 
 # Publications
+
+## 2024
+* Language Models as Inductive Reasoners  
+  **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
+  *in Proc. of **EACL 2024***   
+  [[pdf (preprint in 2022)]](https://arxiv.org/pdf/2212.10923.pdf) [[Dataset and Code]](https://github.com/ZonglinY/Inductive_Reasoning)
+  
+
 ## 2023
 * Task-Aware Self-Supervised Framework for Dialogue Discourse Parsing  
   Wei Li, Luyao Zhu, Wei Shao, **Zonglin Yang**, Erik Cambria  
