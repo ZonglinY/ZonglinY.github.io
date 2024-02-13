@@ -50,7 +50,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2024.01]. I will physically attend EACL 2024 at Malta! Please let me know if you want to chat with me!
+<!-- \[2024.01]. I will physically attend EACL 2024 at Malta! Please let me know if you want to chat with me! -->
 
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
 
