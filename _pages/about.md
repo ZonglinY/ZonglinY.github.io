@@ -8,25 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Zonglin Yang**, a second-year Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). Previously, I interned at Microsoft Research Asia mentored by [Li Dong](http://dong.li/).
+Hello! I am **Zonglin Yang**, a second-year Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research twice (in AI4Science group mentored by [Liang He](https://www.microsoft.com/en-us/research/people/lihe/) and [Lijun Wu](https://apeterswu.github.io/); and in NLC group mentored by [Li Dong](http://dong.li/)).
+
+
 
 <!--I am open to academic collaborations and please drop me an email (<zonglin.yang@ntu.edu.sg>) if you are interested in collaborating with me.-->
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
+I am actively seeking internship opportunities (fall 2024, spring 2025). If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).
 
 
 Research
 ======
-My current research interest center around:  
+My current research interest are:  
+* Pretraining of Foundation Models for Science (current research project).
 * Alignment of LLMs (current research project).
-* LLM agents (current research project). 
-* AI for Science ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
+* LLMs for Science ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
 * Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
 
 More specifically about my past research:
 
 (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
 
-(2) A [further work on inductive reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLM agents to generate initial novel scientific hypotheses to assist scientists.
+(2) A [Further Work on Inductive Reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLM agents to generate initial novel scientific hypotheses to assist scientists.
 
 (3) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation.  
 <!-- It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.   -->
