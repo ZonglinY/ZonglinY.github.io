@@ -19,7 +19,7 @@ I am actively seeking internship opportunities (fall 2024, spring 2025). If you 
 
 Research
 ======
-My current research interest are:  
+My current research interests are:  
 * Pretraining of Foundation Models for Science (current research project).
 * Alignment of LLMs (current research project).
 * LLMs for Science ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
