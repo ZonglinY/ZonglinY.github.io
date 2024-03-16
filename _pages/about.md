@@ -23,11 +23,11 @@ My current research interests are:
 * Pretraining of Foundation Models for Science (current research project).
 * Alignment of LLMs (current research project).
 * LLMs for Science ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
-* Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
+* Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
 
 More specifically about my past research:
 
-(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
+(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/).
 
 (2) A [Further Work on Inductive Reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLM agents to generate initial novel scientific hypotheses to assist scientists.
 
@@ -63,7 +63,7 @@ News
 
 \[2023.09]. Our preprint of [LLM & AI for Science](https://arxiv.org/pdf/2309.02726.pdf) is out.
 
-\[2023.06]. I will take an invited talk at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf) paper on July 17th!  
+\[2023.06]. I will take an invited talk at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) paper on July 17th!  
 
 \[2023.05]. Our [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) will be present at ACL 2023 [NLRSE workshop](https://nl-reasoning-workshop.github.io/) (in a non-archival way) on July 13th!  
 
@@ -73,7 +73,7 @@ News
 
 <!-- \[2023.04]. ~~I'm planning to physically attend EACL 2023!~~ Let me know if you want to chat with me ~~in Dubrovnik! (if I can successfully get the visa)~~ (No I can't get the visa!) -->
 
-\[2023.04]. Our EACL 2023 [paper](https://aclanthology.org/2023.eacl-main.255.pdf) will have an **oral** presentation!  
+\[2023.04]. Our EACL 2023 [paper](https://aclanthology.org/2023.eacl-main.255/) will have an **oral** presentation!  
 
 \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
 
