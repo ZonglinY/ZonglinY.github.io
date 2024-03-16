@@ -23,11 +23,11 @@ My current research interests are:
 * Pretraining of Foundation Models for Science (current research project).
 * Alignment of LLMs (current research project).
 * LLMs for Science ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
-* Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
+* Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
 
 More specifically about my past research:
 
-(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://arxiv.org/pdf/2212.10923.pdf) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
+(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255.pdf).
 
 (2) A [Further Work on Inductive Reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLM agents to generate initial novel scientific hypotheses to assist scientists.
 
@@ -69,7 +69,7 @@ News
 
 \[2023.05]. Got one paper accepted to **ACL 2023**. Congrats to Jinjie!
 
-<!-- \[2023.05]. Our inductive reasoning [paper](https://arxiv.org/pdf/2212.10923.pdf) receives very [positive comments](https://docs.google.com/document/d/1wBUL8f3HtR_DN8loGR5IhDjQawrxOykv22-NW-dzZPY/edit?usp=sharing) from meta-reviewer in ACL 2023 but is rejected! (ACL 2023 excitement score pre-rebuttal: 4, 4, 2.5; after rebuttal: 4, 3.5, 2.5; ACL meta agrees with our rebuttal against r3; AAAI 2023 score: 7, 7, 4, 4) -->
+<!-- \[2023.05]. Our inductive reasoning [paper](https://aclanthology.org/2024.eacl-long.13/) receives very [positive comments](https://docs.google.com/document/d/1wBUL8f3HtR_DN8loGR5IhDjQawrxOykv22-NW-dzZPY/edit?usp=sharing) from meta-reviewer in ACL 2023 but is rejected! (ACL 2023 excitement score pre-rebuttal: 4, 4, 2.5; after rebuttal: 4, 3.5, 2.5; ACL meta agrees with our rebuttal against r3; AAAI 2023 score: 7, 7, 4, 4) -->
 
 <!-- \[2023.04]. ~~I'm planning to physically attend EACL 2023!~~ Let me know if you want to chat with me ~~in Dubrovnik! (if I can successfully get the visa)~~ (No I can't get the visa!) -->
 
