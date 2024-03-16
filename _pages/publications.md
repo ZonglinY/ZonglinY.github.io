@@ -34,7 +34,7 @@ author_profile: true
 * A Survey on Semantic Processing Techniques  
   **Zonglin Yang\***, Rui Mao\*, Kai He\*, Xulang Zhang\*, Guanyi Chen\*, Jinjie Ni\*, Erik Cambria  
   *in **Information Fusion***  
-  [[pdf]](https://ww.sentic.net/survey-on-semantic-processing-techniques.pdf)
+  [[pdf]](https://arxiv.org/pdf/2310.18345.pdf)
   
 * Finding the Pillars of Strength for Multi-Head Attention  
   Jinjie Ni, Rui Mao, **Zonglin Yang**, Han Lei, Erik Cambria  
