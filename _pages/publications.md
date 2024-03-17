@@ -22,7 +22,7 @@ author_profile: true
 * Language Models as Inductive Reasoners  
   **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
   *in Proc. of **EACL 2024***   
-  [[pdf (preprint in 2022)]](https://aclanthology.org/2024.eacl-long.13/) [[dataset and code]](https://github.com/ZonglinY/Inductive_Reasoning) [[poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_EACL_2024_poster__Language_Models_as_Inductive_Reasoners.pdf)  
+  [[pdf (preprint in 2022)]](https://aclanthology.org/2024.eacl-long.13/) [[dataset and code]](https://github.com/ZonglinY/Inductive_Reasoning) [[poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_EACL_2024_poster__Language_Models_as_Inductive_Reasoners.pdf) [[slides]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/EACL%202024%20Language%20Models%20as%20Inductive%20Reasoners.pptx)  
   
 
 ## 2023
