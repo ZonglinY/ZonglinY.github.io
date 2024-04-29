@@ -55,6 +55,8 @@ News
 ======
 <!-- \[2024.01]. I will physically attend EACL 2024 at Malta! Please let me know if you want to chat with me! -->
 
+\[2024.04]. I'm invited to be an area chair of ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html)!
+
 \[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on our [Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf) paper on August 5th!  
 
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
@@ -84,6 +86,8 @@ News
 
 Academic Services
 ======
+Area Chair:  
+* ICML 2024 AI4Science Workshop
 
 Conference Reviewer: 
 * COLM, ARR, COLING 2024, EMNLP 2023, ACL 2023, EMNLP 2022, COLING 2022  
