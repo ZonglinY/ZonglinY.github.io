@@ -7,9 +7,6 @@ author_profile: true
 
 # Preprint
 ## 2023 
-* Large Language Models for Automated Open-domain Scientific Hypotheses Discovery   
-  **Zonglin Yang**, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria  
-  [[pdf]](https://arxiv.org/pdf/2309.02726.pdf) [[Dataset and Code]](https://github.com/ZonglinY/MOOSE)
 
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
   **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
@@ -19,6 +16,11 @@ author_profile: true
 # Publications
 
 ## 2024
+* Large Language Models for Automated Open-domain Scientific Hypotheses Discovery   
+  **Zonglin Yang**, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria  
+  *in Proc. of **ACL 2024 (Findings)***   
+  [[pdf]](https://arxiv.org/pdf/2309.02726.pdf) [[Dataset and Code]](https://github.com/ZonglinY/MOOSE)
+  
 * Language Models as Inductive Reasoners  
   **Zonglin Yang**, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei  
   *in Proc. of **EACL 2024***   
