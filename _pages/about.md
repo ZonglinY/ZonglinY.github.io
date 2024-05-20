@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Zonglin Yang**, a second-year Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research twice (in AI4Science group mentored by [Liang He](https://www.microsoft.com/en-us/research/people/lihe/) and [Lijun Wu](https://apeterswu.github.io/); and in NLC group mentored by [Li Dong](http://dong.li/)).
+Hello! I am **Zonglin Yang**, a second-year Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/).
 
 
 
@@ -20,7 +20,6 @@ I am actively seeking internship opportunities (fall 2024, spring 2025), as well
 Research
 ======
 My current research interests are:  
-* Pretraining of Foundation Models for Science (current research project).
 * Alignment of LLMs (current research project).
 * LLMs for Science ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
 * Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
