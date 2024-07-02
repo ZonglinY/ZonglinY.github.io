@@ -52,13 +52,15 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2024.06]. In summary, our [Inductive Reasoning for Social Science](https://arxiv.org/abs/2309.02726) paper will be presented at ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html), IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/), ACL 2024 [NLRSE workshop](https://nl-reasoning-workshop.github.io/), and ACL 2024 [KnowledgeLM workshop](https://knowledgeable-lm.github.io/)! So you know where to find me :satisfied::satisfied:!
+
 \[2024.05]. Got one paper accepted to **ACL 2024**. Thanks to all my collaborators!  
 
 <!-- \[2024.01]. I will physically attend EACL 2024 at Malta! Please let me know if you want to chat with me! -->
 
 \[2024.04]. I'm invited to be an area chair of ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html)!
 
-\[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on our [Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf) paper on August 5th!  
+\[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on our [Inductive Reasoning for Social Science](https://arxiv.org/abs/2309.02726) paper on August 5th!  
 
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
 
@@ -66,7 +68,7 @@ News
 
 \[2023.10]. Got one paper accepted to **EMNLP 2023**. Congrats to Wei!
 
-\[2023.09]. Our preprint of [LLM & AI for Science](https://arxiv.org/pdf/2309.02726.pdf) is out.
+\[2023.09]. Our preprint of [LLM & AI for Science](https://arxiv.org/abs/2309.02726) is out.
 
 \[2023.06]. I will take an invited talk at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) paper on July 17th!  
 
