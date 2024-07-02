@@ -52,7 +52,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2024.06]. In summary, our [Inductive Reasoning for Social Science](https://arxiv.org/abs/2309.02726) paper will be presented at ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html), IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/), ACL 2024 [NLRSE workshop](https://nl-reasoning-workshop.github.io/), and ACL 2024 [KnowledgeLM workshop](https://knowledgeable-lm.github.io/)! So you know where to find me :satisfied::satisfied:!
+\[2024.06]. In summary, our [Inductive Reasoning for Social Science](https://arxiv.org/abs/2309.02726) paper will be presented at ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html), IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/), ACL 2024 [NLRSE workshop](https://nl-reasoning-workshop.github.io/), and ACL 2024 [KnowledgeLM workshop](https://knowledgeable-lm.github.io/)! So you know where to find me😆😆!
 
 \[2024.05]. Got one paper accepted to **ACL 2024**. Thanks to all my collaborators!  
 
