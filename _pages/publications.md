@@ -19,7 +19,7 @@ author_profile: true
 * Large Language Models for Automated Open-domain Scientific Hypotheses Discovery   
   **Zonglin Yang**, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria  
   *in Proc. of **ACL 2024 (Findings)***  
-  [[**Best Poster Award** at ICML 2024 AI4Science Workshop]](https://ai4sciencecommunity.github.io/icml24.html)  
+  [[**Best Poster Award** in AI4Science Workshop]](https://ai4sciencecommunity.github.io/icml24.html)  
   [[pdf]](https://arxiv.org/pdf/2309.02726.pdf) [[dataset and code]](https://github.com/ZonglinY/MOOSE)  
   
 
