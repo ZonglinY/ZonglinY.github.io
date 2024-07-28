@@ -52,6 +52,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2024.07]. Our [Inductive Reasoning for Social Science](https://arxiv.org/abs/2309.02726) paper has won the **Best Poster Award** in ICML 2024 AI4Science workshop! 
+
 \[2024.06]. In summary, our [Inductive Reasoning for Social Science](https://arxiv.org/abs/2309.02726) paper will be presented at ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html), IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/), ACL 2024 [NLRSE workshop](https://nl-reasoning-workshop.github.io/), ACL 2024 [KnowledgeLM workshop](https://knowledgeable-lm.github.io/), and [AI4Science and Nobel Turing Challenge Initiative Conference](https://ai4science.sg/ai4sci%2Fntci-conf#f870436a-eaa4-414b-a8c6-b89ba727fdb5)! So you know where to find me😆😆!
 
 \[2024.05]. Got one paper accepted to **ACL 2024**. Thanks to all my collaborators!  
