@@ -8,7 +8,7 @@ author_profile: true
 # Preprint
 ## 2024
 * MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses  
-Zonglin Yang, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou  
+**Zonglin Yang**, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou  
 [[pdf]](https://arxiv.org/abs/2410.07076) [[code and benchmark]](https://github.com/ZonglinY/MOOSE-Chem.git)
 
 ## 2023 
