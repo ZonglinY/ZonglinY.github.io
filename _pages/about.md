@@ -28,7 +28,7 @@ More specifically about my past research:
 
 (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/).
 
-(2) A [Further Work on Inductive Reasoning](https://arxiv.org/abs/2309.02726) that leverage LLM agents to generate novel and valid social science hypotheses to assist scientist.
+(2) A [Further Work on Inductive Reasoning](https://arxiv.org/abs/2309.02726) that leverages LLM agents to generate novel and valid social science hypotheses to assist scientist.
 
 (30 A further work on [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) that can rediscover the chemistry hypotheses published in Nature and Science.
 
