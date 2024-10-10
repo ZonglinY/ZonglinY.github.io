@@ -20,7 +20,7 @@ I am actively seeking internship opportunities (spring 2025, summer 2025), as we
 Research
 ======
 My current research interests are:  
-* LLMs for Scientific Discovery ([Inductive Reasoning for Social Science](https://arxiv.org/pdf/2309.02726.pdf)).
+* LLMs for Scientific Discovery (in [Social Science](https://arxiv.org/abs/2309.02726) and [Chemistry](https://arxiv.org/abs/2410.07076)).
 * Alignment of LLMs.
 * Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
 
@@ -28,14 +28,16 @@ More specifically about my past research:
 
 (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/).
 
-(2) A [Further Work on Inductive Reasoning](https://arxiv.org/pdf/2309.02726.pdf) that leverage LLM agents to generate initial novel scientific hypotheses to assist scientists.
+(2) A [Further Work on Inductive Reasoning](https://arxiv.org/abs/2309.02726) that leverage LLM agents to generate novel and valid social science hypotheses to assist scientist.
 
-(3) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation.  
+(30 A further work on [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) that can rediscover the chemistry hypotheses published in Nature and Science.
+
+<!-- (3) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation.  -->
 <!-- It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.   -->
 
 <!-- ![Alt text](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/images/LRNL.pdf) -->
 
-(4) Improving [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) via distant supervision.
+<!--(4) Improving [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) via distant supervision.-->
 
 
 
@@ -52,6 +54,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2023.09]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.
+
 \[2024.07]. Our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper has won the **Best Poster Award** in ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24/award.html)! 
 
 <!--\[2024.06]. In summary, our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper will be presented at ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html), IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/), ACL 2024 [NLRSE workshop](https://nl-reasoning-workshop.github.io/), ACL 2024 [KnowledgeLM workshop](https://knowledgeable-lm.github.io/), and [AI4Science and Nobel Turing Challenge Initiative Conference](https://ai4science.sg/ai4sci%2Fntci-conf#f870436a-eaa4-414b-a8c6-b89ba727fdb5)! So you know where to find me😆😆!-->
