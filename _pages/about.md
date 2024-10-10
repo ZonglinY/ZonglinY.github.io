@@ -54,7 +54,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2023.09]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.
+\[2024.10]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.
 
 \[2024.07]. Our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper has won the **Best Poster Award** in ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24/award.html)! 
 
