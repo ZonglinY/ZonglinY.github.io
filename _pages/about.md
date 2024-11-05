@@ -16,7 +16,7 @@ I am **Zonglin Yang**, a third-year Ph.D. candidate at Nanyang Technological Uni
 
 <!--I am open to academic collaborations and please drop me an email (<zonglin.yang@ntu.edu.sg>) if you are interested in collaborating with me.-->
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
-I am actively seeking internship opportunities (spring 2025, summer 2025), as well as full-time employment starting from June, 2025. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).
+I will be in the academic and industrial job market in June 2025! If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).
 
 
 Research
