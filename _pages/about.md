@@ -33,7 +33,7 @@ More specifically about my past research:
 
 (2) A [Further Work on Inductive Reasoning](https://arxiv.org/abs/2309.02726) that leverages LLM agents to generate novel and valid social science hypotheses to assist scientist.
 
-(30 A further work on [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) that can rediscover the chemistry hypotheses published in Nature and Science.
+(3) A further work on [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) that can rediscover the chemistry hypotheses published in Nature and Science.
 
 <!-- (3) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation.  -->
 <!-- It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.   -->
