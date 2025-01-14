@@ -23,7 +23,7 @@ I am **Zonglin Yang**, a third-year Ph.D. candidate at Nanyang Technological Uni
 Research
 ======
 My current research interests are:  
-* LLMs for Scientific Discovery (in [Social Science](https://arxiv.org/abs/2309.02726) and [Chemistry](https://arxiv.org/abs/2410.07076)).
+* LLMs for Scientific Discovery (in [Social Science](https://arxiv.org/abs/2309.02726) and [Chemistry](https://arxiv.org/abs/2410.07076); and a [Survey](https://arxiv.org/pdf/2501.04306)).
 * Alignment of LLMs.
 * Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
 
@@ -57,6 +57,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.01]. Our preprint of [Survey on LLMs for Scientific Research](https://arxiv.org/pdf/2501.04306) is out.  
+
 \[2024.10]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.
 
 \[2024.07]. Our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper has won the **Best Poster Award** in ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24/award.html)! 
