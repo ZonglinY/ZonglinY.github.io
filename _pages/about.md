@@ -33,7 +33,11 @@ My current research interests are:
     * A comprehensive survey on how LLMs can assist scientific research.
 <!--* Alignment of LLMs.-->
 * Reasoning & Knowledge in Natural Language Processing
-  * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)
+  * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/)
+    * The first work on language models for generative inductive reasoning.
+  * [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf)
+  * [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/)
+  * [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)
 
 <!-- More specifically about my past research: -->
 
