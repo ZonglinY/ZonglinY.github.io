@@ -23,17 +23,25 @@ I am **Zonglin Yang**, a third-year Ph.D. candidate at Nanyang Technological Uni
 Research
 ======
 My current research interests are:  
-* LLMs for Scientific Discovery (in [Social Science](https://arxiv.org/abs/2309.02726) and [Chemistry](https://arxiv.org/abs/2410.07076); and a [Survey](https://arxiv.org/pdf/2501.04306)).
-* Alignment of LLMs.
-* Reasoning & Knowledge in Natural Language Processing ([Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)).
+* LLMs for Scientific Discovery
+  * [MOOSE](https://arxiv.org/abs/2309.02726)
+    * The first work showing that LLMs can be leveraged to generate novel and valid scientific hypothesis.
+  * [MOOSE-Chem](https://arxiv.org/abs/2410.07076)
+    * The first work showing that LLMs can rediscover many research hypotheses published in Nature or Science.
+    * Provided a mathematically proved theoretical foundation for automated scientific hypothesis discovery.
+  * [Survey](https://arxiv.org/pdf/2501.04306)
+    * A comprehensive survey on how LLMs can assist scientific research.
+<!--* Alignment of LLMs.-->
+* Reasoning & Knowledge in Natural Language Processing
+  * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/), [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf), [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/), [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)
 
-More specifically about my past research:
+<!-- More specifically about my past research: -->
 
-(1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/).
+<!-- (1) Bridging research between classic AI (Knowledge Representation and Reasoning) and Natural Language Processing, e.g., [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) and [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/). -->
 
-(2) A [Further Work on Inductive Reasoning](https://arxiv.org/abs/2309.02726) that leverages LLM agents to generate novel and valid social science hypotheses to assist scientist.
+<!-- (2) A [Further Work on Inductive Reasoning](https://arxiv.org/abs/2309.02726) that leverages LLM agents to generate novel and valid social science hypotheses to assist scientist. -->
 
-(3) A further work on [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) that can rediscover the chemistry hypotheses published in Nature and Science.
+<!-- (3) A further work on [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) that can rediscover the chemistry hypotheses published in Nature and Science. -->
 
 <!-- (3) A [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) over Natural Language as Knowledge Representation.  -->
 <!-- It surveys papers under a new paradigm of logical reasoning that uses natural language as knowledge representation and PLMs as reasoners. In contrast, in the classic AI research of logical reasoning, formal language is used as knowledge representation, and symbolic methods are used as reasoners.   -->
