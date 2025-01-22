@@ -6,27 +6,26 @@ author_profile: true
 ---
 
 # Preprint
-## 2025
 * LLM4SR: A Survey on Large Language Models for Scientific Research  
 Ziming Luo*, **Zonglin Yang***, Zexin Xu, Wei Yang, Xinya Du  
 [[pdf]](https://arxiv.org/pdf/2501.04306) [[github paper collection]](https://github.com/du-nlp-lab/LLM4SR)
-
-## 2024
-* MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses  
-**Zonglin Yang**, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou  
-[[pdf]](https://arxiv.org/abs/2410.07076) [[code and benchmark]](https://github.com/ZonglinY/MOOSE-Chem.git)
 
 * Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning   
 Di Zhang, Jingdi Lei, Junxian Li, Xunzhi Wang, Yujie Liu, **Zonglin Yang**, Jiatong Li, Weida Wang, Suorong Yang, Jianbo Wu, Peng Ye, Wanli Ouyang, Dongzhan Zhou  
 [[pdf]](https://arxiv.org/abs/2411.18203) 
 
-## 2023 
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
   **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
   [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)  
   
 
 # Publications
+
+## 2025
+* MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses  
+**Zonglin Yang**, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou  
+*in Proc. of **ICLR 2025***  
+[[pdf]](https://arxiv.org/abs/2410.07076) [[code and benchmark]](https://github.com/ZonglinY/MOOSE-Chem.git)
 
 ## 2024
 * Large Language Models for Automated Open-domain Scientific Hypotheses Discovery   
