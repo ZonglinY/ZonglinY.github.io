@@ -85,7 +85,7 @@ News
 
 <!--\[2024.04]. I'm invited to be an area chair of ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html)!-->
 
-\[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on the [MOOSE](https://arxiv.org/abs/2309.02726) paper on August 5th!  
+\[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on [MOOSE](https://arxiv.org/abs/2309.02726) on August 5th!  
 
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
 
