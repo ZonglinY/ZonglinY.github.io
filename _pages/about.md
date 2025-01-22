@@ -69,21 +69,23 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.01]. [MOOSE-Chem](https://arxiv.org/abs/2410.07076) is accepted to **ICLR 2025**. Thanks to all my collaborators!
+
 \[2025.01]. Our preprint of [Survey on LLMs for Scientific Research](https://arxiv.org/pdf/2501.04306) is out.  
 
-\[2024.10]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.
+<!--\[2024.10]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.-->
 
-\[2024.07]. Our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper has won the **Best Poster Award** in ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24/award.html)! 
+\[2024.07]. [MOOSE](https://arxiv.org/abs/2309.02726) has won the **Best Poster Award** in ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24/award.html)! 
 
 <!--\[2024.06]. In summary, our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper will be presented at ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html), IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/), ACL 2024 [NLRSE workshop](https://nl-reasoning-workshop.github.io/), ACL 2024 [KnowledgeLM workshop](https://knowledgeable-lm.github.io/), and [AI4Science and Nobel Turing Challenge Initiative Conference](https://ai4science.sg/ai4sci%2Fntci-conf#f870436a-eaa4-414b-a8c6-b89ba727fdb5)! So you know where to find me😆😆!-->
 
-\[2024.05]. Got one paper accepted to **ACL 2024**. Thanks to all my collaborators!  
+\[2024.05]. [MOOSE](https://arxiv.org/abs/2309.02726) is accepted to **ACL 2024**. Thanks to all my collaborators!  
 
 <!-- \[2024.01]. I will physically attend EACL 2024 at Malta! Please let me know if you want to chat with me! -->
 
 <!--\[2024.04]. I'm invited to be an area chair of ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html)!-->
 
-\[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper on August 5th!  
+\[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on the [MOOSE](https://arxiv.org/abs/2309.02726) paper on August 5th!  
 
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
 
