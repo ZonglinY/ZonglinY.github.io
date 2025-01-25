@@ -7,7 +7,7 @@ author_profile: true
 
 # Preprint
 * LLM4SR: A Survey on Large Language Models for Scientific Research  
-Ziming Luo*, **Zonglin Yang***, Zexin Xu, Wei Yang, Xinya Du  
+Ziming Luo\*, **Zonglin Yang**\*, Zexin Xu, Wei Yang, Xinya Du  
 [[pdf]](https://arxiv.org/pdf/2501.04306) [[github paper collection]](https://github.com/du-nlp-lab/LLM4SR)
 
 * Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning   
