@@ -115,7 +115,8 @@ News
 Academic Services
 ======
 Area Chair:  
-* ICML 2024 AI4Science Workshop
+<!--ICML 2024 AI4Science Workshop-->
+* ARR
 
 Conference Reviewer: 
 * ARR, ICLR 2025, NLPCC 2024, COLM 2024, COLING 2024, EMNLP 2023, ACL 2023, EMNLP 2022, COLING 2022  
