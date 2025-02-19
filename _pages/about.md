@@ -69,6 +69,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.01]. I'm invited as an area chair in ACL Rolling Review (ARR)!
+
 \[2025.01]. [MOOSE-Chem](https://arxiv.org/abs/2410.07076) is accepted to **ICLR 2025**. Thanks to all my collaborators!
 
 \[2025.01]. Our preprint of [Survey on LLMs for Scientific Research](https://arxiv.org/pdf/2501.04306) is out.  
