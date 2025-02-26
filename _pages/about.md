@@ -69,7 +69,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2023.10]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
+\[2025.02]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
 
 \[2025.01]. I'm invited as an Area Chair in ACL Rolling Review (ARR)!
 
