@@ -71,7 +71,7 @@ News
 ======
 \[2025.02]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
 
-\[2025.01]. I'm invited as an Area Chair in ACL Rolling Review (ARR)!
+\[2025.01]. I'm invited as an **Area Chair** in ACL Rolling Review (ARR)!
 
 \[2025.01]. [MOOSE-Chem](https://arxiv.org/abs/2410.07076) is accepted to **ICLR 2025**. Thanks to all my collaborators!
 
