@@ -69,6 +69,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.03]. I will take an invited talk at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th!  
+
 \[2025.02]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
 
 \[2025.01]. I'm invited as an **Area Chair** in ACL Rolling Review (ARR)!
