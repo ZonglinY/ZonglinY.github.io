@@ -69,7 +69,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2025.03]. I will take an invited talk at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th!  
+\[2025.03]. I will take an **invited talk** at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th!  
 
 \[2025.02]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
 
@@ -91,7 +91,7 @@ News
 
 <!--\[2024.04]. I'm invited to be an area chair of ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html)!-->
 
-\[2024.04]. I will take an invited talk at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on [MOOSE](https://arxiv.org/abs/2309.02726) on August 5th!  
+\[2024.04]. I will take an **invited talk** at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on [MOOSE](https://arxiv.org/abs/2309.02726) on August 5th!  
 
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
 
@@ -101,7 +101,7 @@ News
 
 <!--\[2023.09]. Our preprint of [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) is out.-->
 
-\[2023.06]. I will take an invited talk at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) paper on July 17th!  
+\[2023.06]. I will take an **invited talk** at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) paper on July 17th!  
 
 <!--\[2023.05]. Our [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) will be present at ACL 2023 [NLRSE workshop](https://nl-reasoning-workshop.github.io/) (in a non-archival way) on July 13th!-->
 
