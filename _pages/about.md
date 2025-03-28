@@ -29,6 +29,8 @@ My current research interests are:
   * [MOOSE-Chem](https://arxiv.org/abs/2410.07076)
     * The first work showing that LLMs can rediscover many research hypotheses published in Nature or Science.
     * Provided a mathematically proved theoretical foundation for automated scientific hypothesis discovery.
+  * [ResearchBench](https://arxiv.org/pdf/2503.21248)
+    * The first large-scale benchmark for evaluating LLMs with a near-sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.   
   * [Survey](https://arxiv.org/pdf/2501.04306)
     * A comprehensive survey on how LLMs can assist scientific research.
 <!--* Alignment of LLMs.-->
@@ -69,6 +71,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  
+
 \[2025.03]. I will take an **invited talk** at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th!  
 
 \[2025.02]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
