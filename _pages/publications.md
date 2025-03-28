@@ -6,13 +6,18 @@ author_profile: true
 ---
 
 # Preprint
+* ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition  
+Yujie Liu*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
+[[pdf]](https://arxiv.org/pdf/2503.21248)  
+  
+
 * LLM4SR: A Survey on Large Language Models for Scientific Research  
 Ziming Luo\*, **Zonglin Yang**\*, Zexin Xu, Wei Yang, Xinya Du  
 [[pdf]](https://arxiv.org/pdf/2501.04306) [[github paper collection]](https://github.com/du-nlp-lab/LLM4SR)
 
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
-  **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
-  [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)  
+**Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
+[[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)  
   
 
 # Publications
