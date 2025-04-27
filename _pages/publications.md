@@ -26,7 +26,7 @@ Ziming Luo\*, **Zonglin Yang**\*, Zexin Xu, Wei Yang, Xinya Du
 * MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses  
 **Zonglin Yang**, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou  
 *in Proc. of **ICLR 2025***  
-[[pdf]](https://arxiv.org/abs/2410.07076) [[code and benchmark]](https://github.com/ZonglinY/MOOSE-Chem.git)
+[[pdf]](https://arxiv.org/abs/2410.07076) [[code and benchmark]](https://github.com/ZonglinY/MOOSE-Chem.git) [[poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/MOOSE_Chem_Poster.pdf) [[slides]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/MOOSE-Chem.pptx)
 
 * Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning   
 Di Zhang, Jingdi Lei, Junxian Li, Xunzhi Wang, Yujie Liu, **Zonglin Yang**, Jiatong Li, Weida Wang, Suorong Yang, Jianbo Wu, Peng Ye, Wanli Ouyang, Dongzhan Zhou  
