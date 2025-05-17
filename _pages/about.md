@@ -71,6 +71,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.05]. We’re hosting a tutorial on *Automated Scientific Discovery* at the [AI4X](https://ai4x.cc/) conference on July 7th — stay tuned!
+
 \[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  
 
 \[2025.03]. I will take an **invited talk** at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th!  
