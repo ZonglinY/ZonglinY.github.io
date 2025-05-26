@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # Preprint
+* MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback  
+Wanhao Liu\*, **Zonglin Yang**\*, Jue Wang, Lidong Bing, Di Zhang, Dongzhan Zhou, Yuqiang Li, Houqiang Li, Erik Cambria, Wanli Ouyang  
+[pdf](https://arxiv.org/abs/2505.17873)
+
 * ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition  
 Yujie Liu*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
 [[pdf]](https://arxiv.org/pdf/2503.21248)  
