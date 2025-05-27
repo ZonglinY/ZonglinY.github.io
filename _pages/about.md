@@ -29,6 +29,9 @@ My current research interests are:
   * [MOOSE-Chem](https://arxiv.org/abs/2410.07076)
     * Provide a mathematically proved theoretical foundation for automated scientific hypothesis discovery. 
     * The first work showing that LLMs can rediscover many research hypotheses published in Nature or Science.
+  * [MOOSE-Chem2](https://arxiv.org/abs/2505.19209)
+    * Introduce the task of *fine-grained scientific hypothesis discovery*, aiming for experimentally actionable hypothesis
+    * Frame the task as an optimization problem, and propose hierarchical heuristic search that can theoretically smoothen the optimization landscape to reach to better local optimum.
   * [MOOSE-Chem3](https://arxiv.org/abs/2505.17873)
     * Introduce the task of *experiment-guided ranking*, which bridges automated scientific discovery and experimental feedback.
     * Propose an experimental simulator that enables scalable research of *experiment-guided ranking* without relying on real wet-lab experiments.
@@ -74,6 +77,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.05]. Our preprint of [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is out.  
+
 \[2025.05]. Our preprint of [MOOSE-Chem3](https://arxiv.org/pdf/2505.17873) is out.  
 
 \[2025.05]. We’re hosting a tutorial on *Frontiers of LLMs for Automated Scientific Discovery* at the [AI4X](https://ai4x.cc/) conference on July 7th — stay tuned!
