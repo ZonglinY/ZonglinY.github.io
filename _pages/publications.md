@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 # Preprint
+* MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search  
+**Zonglin Yang**, Wanhao Liu, Ben Gao, Yujie Liu, Wei Li, Tong Xie, Lidong Bing, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
+[[pdf]](https://arxiv.org/abs/2505.19209)
+
+ 
 * MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback  
 Wanhao Liu\*, **Zonglin Yang**\*, Jue Wang, Lidong Bing, Di Zhang, Dongzhan Zhou, Yuqiang Li, Houqiang Li, Erik Cambria, Wanli Ouyang  
 [[pdf]](https://arxiv.org/pdf/2505.17873)
