@@ -27,18 +27,19 @@ My current research interests are:
   * [MOOSE](https://arxiv.org/abs/2309.02726)
     * The first work showing that LLMs can be leveraged to generate novel and valid scientific hypothesis.
   * [MOOSE-Chem](https://arxiv.org/abs/2410.07076)
-    * Provide a mathematically proved theoretical foundation for automated scientific hypothesis discovery. 
-    * The first work showing that LLMs can rediscover many research hypotheses published in Nature or Science.
+    * Provide a mathematically proved theoretical foundation on automated scientific hypothesis discovery.
+    * The first work showing that LLMs can rediscover the main innovations of many research hypotheses published in Nature or Science.
   * [MOOSE-Chem2](https://arxiv.org/abs/2505.19209)
-    * Introduce the task of *fine-grained scientific hypothesis discovery*, aiming for experimentally actionable hypothesis
+    * Introduce the task of *fine-grained scientific hypothesis discovery*, aiming for experimentally actionable hypothesis.
     * Frame the task as an optimization problem, and propose hierarchical heuristic search that can theoretically smoothen the optimization landscape to reach to better local optimum.
   * [MOOSE-Chem3](https://arxiv.org/abs/2505.17873)
-    * Introduce the task of *experiment-guided ranking*, which bridges automated scientific discovery and experimental feedback.
+    * Introduce the task of *experiment-guided ranking*, which bridges automated scientific hypothesis discovery and experimental feedback.
     * Propose an experimental simulator that enables scalable research of *experiment-guided ranking* without relying on real wet-lab experiments.
   * [ResearchBench](https://arxiv.org/pdf/2503.21248)
-    * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.   
+    * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.
+    * It suggests that LLMs can serve as research hypothesis mines, with stronger LLMs acting as richer mines and greater inference compute enabling more miners.
   * [Survey](https://arxiv.org/pdf/2501.04306)
-    * A comprehensive survey on how LLMs can assist scientific research.
+    * The first comprehensive survey on how LLMs can assist scientific research.
 <!--* Alignment of LLMs.-->
 * Reasoning & Knowledge in Natural Language Processing
   * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/)
