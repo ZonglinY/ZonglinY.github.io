@@ -78,13 +78,13 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2025.05]. Our preprint of [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is out.  
+<!--\[2025.05]. Our preprint of [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is out.  -->
 
-\[2025.05]. Our preprint of [MOOSE-Chem3](https://arxiv.org/pdf/2505.17873) is out.  
+<!--\[2025.05]. Our preprint of [MOOSE-Chem3](https://arxiv.org/pdf/2505.17873) is out.  -->
 
-\[2025.05]. We’re hosting a tutorial on *Frontiers of LLMs for Automated Scientific Discovery* at the [AI4X](https://ai4x.cc/) conference on July 7th — stay tuned!
+\[2025.05]. I'm hosting a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at the [AI4X](https://ai4x.cc/) conference on July 7th — stay tuned!
 
-\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  
+<!--\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  -->
 
 \[2025.03]. I will take an **invited talk** at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th!  
 
@@ -94,7 +94,7 @@ News
 
 \[2025.01]. [MOOSE-Chem](https://arxiv.org/abs/2410.07076) is accepted to **ICLR 2025**. Thanks to all my collaborators!
 
-\[2025.01]. Our preprint of [Survey on LLMs for Scientific Research](https://arxiv.org/pdf/2501.04306) is out.  
+<!--\[2025.01]. Our preprint of [Survey on LLMs for Scientific Research](https://arxiv.org/pdf/2501.04306) is out.  -->
 
 <!--\[2024.10]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.-->
 
