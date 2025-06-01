@@ -10,9 +10,11 @@ redirect_from:
 
 Hi, thanks for stopping by.
 
-I am **Zonglin Yang**, a third-year Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also work closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/).
+I am **Zonglin Yang**, a third-year Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also work closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/). 
 
+My representative works are the MOOSE and MOOSE-Chem series. 
 
+*Like the moose that ventures into uncharted wilderness, MOOSE & MOOSE-Chem series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
 
 I am open to academic collaborations and please drop me an email (<zonglin.yang@ntu.edu.sg>) if you are interested in collaborating with me.
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
