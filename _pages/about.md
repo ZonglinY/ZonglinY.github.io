@@ -42,6 +42,8 @@ My current research interests are:
     * It suggests that LLMs can serve as research hypothesis mines, with stronger LLMs acting as richer mines and greater inference compute enabling more miners.
   * [Survey](https://arxiv.org/pdf/2501.04306)
     * The first comprehensive survey on how LLMs can assist scientific research.
+  * [NoveltyBench](https://arxiv.org/abs/2505.24615)
+    * The first benchmark for evaluating the novelty of a scientific hypothesis.
 <!--* Alignment of LLMs.-->
 * Reasoning & Knowledge in Natural Language Processing
   * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/)
