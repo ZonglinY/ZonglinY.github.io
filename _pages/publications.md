@@ -24,6 +24,11 @@ Yujie Liu*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixia
 Ziming Luo\*, **Zonglin Yang**\*, Zexin Xu, Wei Yang, Xinya Du  
 [[pdf]](https://arxiv.org/pdf/2501.04306) [[github paper collection]](https://github.com/du-nlp-lab/LLM4SR)
 
+* Harnessing Large Language Models for Scientific Novelty Detection  
+Yan Liu, **Zonglin Yang**, Soujanya Poria, Thanh-Son Nguyen, Erik Cambria  
+[[pdf]](https://arxiv.org/abs/2505.24615)
+
+
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
 **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
 [[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)  
