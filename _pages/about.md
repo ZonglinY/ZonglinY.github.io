@@ -82,11 +82,10 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-<!--\[2025.05]. Our preprint of [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is out.  -->
 
-<!--\[2025.05]. Our preprint of [MOOSE-Chem3](https://arxiv.org/pdf/2505.17873) is out.  -->
+\[2025.09]. I'll host a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at **AAAI 2026**, stay tuned! 
 
-\[2025.05]. I'm hosting a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at the [AI4X](https://ai4x.cc/tutorials/) conference on July 7th — stay tuned!
+\[2025.05]. I'll host a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at the [AI4X](https://ai4x.cc/tutorials/) conference on July 7th!
 
 <!--\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  -->
 
