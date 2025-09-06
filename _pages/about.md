@@ -85,7 +85,7 @@ News
 
 \[2025.09]. I'll host a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at **AAAI 2026** on January 26th or 27th, stay tuned! 
 
-\[2025.05]. I'll host a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at the [AI4X](https://ai4x.cc/tutorials/) conference on July 7th!
+\[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery: An Overview* at the [AI4X](https://ai4x.cc/tutorials/) conference on July 7th!
 
 <!--\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  -->
 
