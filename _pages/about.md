@@ -26,12 +26,12 @@ Research
 ======
 My current research interests are:  
 * LLMs for Scientific Discovery
-  * [MOOSE](https://arxiv.org/abs/2309.02726)
+  * [MOOSE](https://arxiv.org/abs/2309.02726) (ACL 2024)
     * The first work showing that LLMs can be leveraged to generate novel and valid scientific hypothesis.
-  * [MOOSE-Chem](https://arxiv.org/abs/2410.07076)
+  * [MOOSE-Chem](https://arxiv.org/abs/2410.07076) (ICLR 2025)
     * Provide a mathematically proved theoretical foundation on automated scientific hypothesis discovery.
     * The first work showing that LLMs can rediscover the main innovations of many research hypotheses published in Nature or Science.
-  * [MOOSE-Chem2](https://arxiv.org/abs/2505.19209)
+  * [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) (NeurIPS 2025)
     * Introduce the task of *fine-grained scientific hypothesis discovery*, aiming for experimentally actionable hypothesis.
     * Frame the task as an optimization problem, and propose hierarchical heuristic search that can theoretically smoothen the optimization landscape to reach to better local optimum.
   * [MOOSE-Chem3](https://arxiv.org/abs/2505.17873)
@@ -46,11 +46,11 @@ My current research interests are:
     * The first comprehensive survey on how LLMs can assist scientific research.
 <!--* Alignment of LLMs.-->
 * Reasoning & Knowledge in Natural Language Processing
-  * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/)
+  * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) (EACL 2024)
     <!--* The first work on language models for generative inductive reasoning.-->
   * [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf)
-  * [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/)
-  * [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/)
+  * [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) (EACL 2023)
+  * [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) (EMNLP 2020)
 
 <!-- More specifically about my past research: -->
 
@@ -82,6 +82,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.01]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
 \[2025.09]. I'll host a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at **AAAI 2026** on January 26th or 27th, stay tuned! 
 
