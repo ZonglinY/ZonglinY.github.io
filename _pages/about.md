@@ -82,7 +82,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2025.01]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
+\[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
 \[2025.09]. I'll host a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at **AAAI 2026** on January 26th or 27th, stay tuned! 
 
