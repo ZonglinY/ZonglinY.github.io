@@ -69,10 +69,10 @@ Di Zhang, Jingdi Lei, Junxian Li, Xunzhi Wang, Yujie Liu, **Zonglin Yang**, Jiat
   *in Proc. of **EMNLP 2023 (Findings)***  
   [[pdf]](https://sentic.net/task-aware-self-supervised-dialogue-discourse-parsing.pdf) [[code]](https://github.com/senticnet/DialogDP)
 
-* A Survey on Semantic Processing Techniques  
+<!--* A Survey on Semantic Processing Techniques  
   **Zonglin Yang\***, Rui Mao\*, Kai He\*, Xulang Zhang\*, Guanyi Chen\*, Jinjie Ni\*, Erik Cambria  
   *in **Information Fusion***  
-  [[pdf]](https://arxiv.org/pdf/2310.18345.pdf)
+  [[pdf]](https://arxiv.org/pdf/2310.18345.pdf)-->
   
 * Finding the Pillars of Strength for Multi-Head Attention  
   Jinjie Ni, Rui Mao, **Zonglin Yang**, Han Lei, Erik Cambria  
