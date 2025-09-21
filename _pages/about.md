@@ -84,7 +84,7 @@ News
 ======
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
-\[2025.09]. I'll host a **tutorial** on *Frontiers of LLMs for Automated Scientific Discovery* at **AAAI 2026** on January 21th, stay tuned! 
+\[2025.09]. I'll host a **tutorial** on [*Frontiers of LLMs for Automated Scientific Discovery*](https://llm4sd.io/) at **AAAI 2026** on January 21th with [Prof. Reddy](https://creddy.net/), stay tuned! 
 
 \[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery: An Overview* at the [AI4X](https://ai4x.cc/tutorials/) conference on July 7th!
 
