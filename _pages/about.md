@@ -86,7 +86,7 @@ News
 
 \[2025.09]. I'll host a **tutorial** on [*Frontiers of LLMs for Automated Scientific Discovery*](https://llm4sd.io/) at **AAAI 2026** on January 21th with [Prof. Reddy](https://creddy.net/), stay tuned! 
 
-\[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery* at the [AI4X](https://ai4x.cc/tutorials/) conference with Yan Liu on July 7th!
+\[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery* at [AI4X](https://ai4x.cc/tutorials/) conference with Yan Liu on July 7th!
 
 <!--\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  -->
 
@@ -146,7 +146,7 @@ Area Chair:
 * ARR
 
 Conference Reviewer: 
-* ARR, COLM 2025, ICLR 2025, NLPCC 2024, COLM 2024, COLING 2024, EMNLP 2023, ACL 2023, EMNLP 2022, COLING 2022  
+* ARR, NeurIPS 2025, COLM 2025, ICLR 2025, NLPCC 2024, COLM 2024, COLING 2024, EMNLP 2023, ACL 2023, EMNLP 2022, COLING 2022  
 
 <!-- Journal Reviewer: 
 * IEEE Transactions on Affective Computing
