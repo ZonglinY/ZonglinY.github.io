@@ -86,7 +86,7 @@ News
 
 \[2025.09]. I'll host a **tutorial** on [*Frontiers of LLMs for Automated Scientific Discovery*](https://llm4sd.io/) at **AAAI 2026** on January 21th with [Prof. Reddy](https://creddy.net/), stay tuned! 
 
-\[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery: An Overview* at the [AI4X](https://ai4x.cc/tutorials/) conference on July 7th!
+\[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery* at the [AI4X](https://ai4x.cc/tutorials/) conference with Yan Liu on July 7th!
 
 <!--\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  -->
 
