@@ -16,7 +16,7 @@ My representative works are the MOOSE and MOOSE-Chem series.
 
 *Like the moose that ventures into uncharted wilderness, MOOSE & MOOSE-Chem series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
 
-I am open to academic collaborations and please drop me an email (<zonglin.yang@ntu.edu.sg>) if you are interested in collaborating with me.
+I am open to academic collaborations and please drop me an email (<zonglin001@ntu.edu.sg>) if you are interested in collaborating with me.
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
 <!--**I will be on the job market in June 2025! Feel free to reach out if you’re interested in my research or have relevant opportunities.**-->
 <!--I will be in the academic and industrial job market in June 2025! If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).-->
