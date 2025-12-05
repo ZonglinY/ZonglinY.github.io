@@ -10,8 +10,7 @@ redirect_from:
 
 Hi, thanks for stopping by.
 
-I am **Zonglin Yang**, a research scientist at [MiroMind](https://miromind.ai/).
-<!--, where I work on LLMs for scientific discovery and large reasoning models.-->
+I am **Zonglin Yang**, a research scientist at [MiroMind](https://miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
 
 Previously, I completed my Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also work closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/), and at MiroMind mentored by [Lidong Bing](https://lidongbing.github.io/). I was also a visiting student at Princeton University host by [Mengdi Wang](https://mwang.princeton.edu/).
 <!--a research scientist at [MiroMind](https://miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
@@ -90,6 +89,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!
+
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
 \[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/) at **AAAI 2026** on January 21th, stay tuned! 
