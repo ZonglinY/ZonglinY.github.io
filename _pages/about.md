@@ -10,11 +10,9 @@ redirect_from:
 
 Hi, thanks for stopping by.
 
-I am **Zonglin Yang**, a research scientist at [MiroMind](https://miromind.ai/). Previously, I completed my Ph.D. candidate at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also work closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/), and at MiroMind mentored by [Lidong Bing](https://lidongbing.github.io/). I was also a visiting student at Princeton University host by [Mengdi Wang](https://mwang.princeton.edu/).
-<!--, where I work on LLMs for scientific discovery and large reasoning models.--> 
+I am **Zonglin Yang**, a research scientist at [MiroMind](https://miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
 
-<!--a research scientist at [MiroMind](https://miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
-Previously, I completed my -->
+Previously, I completed my Ph.D. at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also work closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/), and at MiroMind mentored by [Lidong Bing](https://lidongbing.github.io/). I was also a visiting student at Princeton University host by [Mengdi Wang](https://mwang.princeton.edu/).
 
 
 I try to focus on research questions that matter at a fundamental level, and to approach them with as much rigor and depth as I can. My goal is to make each new piece of research a little better than the last.
@@ -47,8 +45,8 @@ My current research interests are:
   * [ResearchBench](https://arxiv.org/pdf/2503.21248)
     * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.
     * It suggests that LLMs can serve as research hypothesis mines, with stronger LLMs acting as richer mines and greater inference compute enabling more miners.
-  * [NoveltyBench](https://arxiv.org/abs/2505.24615)
-    * The first benchmark for evaluating the novelty of a scientific hypothesis.
+  <!--* [NoveltyBench](https://arxiv.org/abs/2505.24615)
+    * The first benchmark for evaluating the novelty of a scientific hypothesis.-->
   * [Survey](https://arxiv.org/pdf/2501.04306)
     * The first comprehensive survey on how LLMs can assist scientific research.
 <!--* Alignment of LLMs.-->
