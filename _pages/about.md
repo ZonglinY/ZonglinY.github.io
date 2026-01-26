@@ -87,7 +87,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!
+<!--\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!-->
 
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
