@@ -17,7 +17,7 @@ Previously, I completed my Ph.D. at Nanyang Technological University supervised 
 
 I try to focus on research questions that matter at a fundamental level, and to approach them with as much rigor and depth as I can. My goal is to make each new piece of research a little better than the last.
 
-My representative works are the MOOSE series (MOOSE, MOOSE-Chem1/2/3, MOOSE-Star). 
+My representative works are the MOOSE series (MOOSE, MOOSE-Chem 1/2/3, MOOSE-Star). 
 
 *Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
 
