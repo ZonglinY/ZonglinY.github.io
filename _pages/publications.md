@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # Preprint
+
+* MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier  
+**Zonglin Yang**, Lidong Bing  
+[[pdf]](https://arxiv.org/pdf/2603.03756) [[code]](https://github.com/ZonglinY/MOOSE-Star)
  
 * MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback  
 Wanhao Liu\*, **Zonglin Yang**\*, Jue Wang, Lidong Bing, Di Zhang, Dongzhan Zhou, Yuqiang Li, Houqiang Li, Erik Cambria, Wanli Ouyang  
