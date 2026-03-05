@@ -17,15 +17,15 @@ Previously, I completed my Ph.D. at Nanyang Technological University supervised 
 
 I try to focus on research questions that matter at a fundamental level, and to approach them with as much rigor and depth as I can. My goal is to make each new piece of research a little better than the last.
 
-My representative works are the MOOSE and MOOSE-Chem series. 
+My representative works are the MOOSE series (MOOSE, MOOSE-Chem1/2/3, MOOSE-Star). 
 
-*Like the moose that ventures into uncharted wilderness, MOOSE & MOOSE-Chem series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
+*Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
 
 <!--I am open to academic collaborations and please drop me an email (<zonglin001@ntu.edu.sg>) if you are interested in collaborating with me.-->
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
 <!--**I will be on the job market in June 2025! Feel free to reach out if you’re interested in my research or have relevant opportunities.**-->
 <!--I will be in the academic and industrial job market in June 2025! If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).-->
-**I am currently looking for interns to work on AI-accelerated scientific discovery. If you are interested, please send your CV to zonglin.yang@miromind.ai**.
+**I am currently looking for interns to work on LLM-accelerated scientific discovery. If you are interested, please send your CV to zonglin.yang@miromind.ai**.
 
 Research
 ======
@@ -42,6 +42,9 @@ My current research interests are:
   * [MOOSE-Chem3](https://arxiv.org/abs/2505.17873)
     * Introduce the task of *experiment-guided ranking*, which bridges automated scientific hypothesis discovery and experimental feedback.
     * Propose an experimental simulator that enables scalable research of *experiment-guided ranking* without relying on real wet-lab experiments.
+  * [MOOSE-Star](https://arxiv.org/abs/2603.03756)
+    * The first training recipe on how to enable the tractable and scalable training of P(hypothesis | research background).
+    * Provide an inference recipe that supports more scalable test-time inference for discovery.
   * [ResearchBench](https://arxiv.org/pdf/2503.21248)
     * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.
     * It suggests that LLMs can serve as research hypothesis mines, with stronger LLMs acting as richer mines and greater inference compute enabling more miners.
