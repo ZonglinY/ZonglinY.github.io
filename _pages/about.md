@@ -43,7 +43,7 @@ My current research interests are:
     * Introduce the task of *experiment-guided ranking*, which bridges automated scientific hypothesis discovery and experimental feedback.
     * Propose an experimental simulator that enables scalable research of *experiment-guided ranking* without relying on real wet-lab experiments.
   * [MOOSE-Star](https://arxiv.org/abs/2603.03756)
-    * The first training recipe on how to enable the tractable and scalable training of P(hypothesis | research background).
+    * The first training recipe on how to enable the tractable and scalable training of P(hypothesis \| research background).
     * Provide an inference recipe that supports more scalable test-time inference for discovery.
   * [ResearchBench](https://arxiv.org/pdf/2503.21248)
     * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.
