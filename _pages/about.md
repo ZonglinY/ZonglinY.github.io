@@ -31,7 +31,7 @@ Research
 ======
 My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on the MOOSE series, which is summarized in the following figure.
 
-![The MOOSE Research Line](../_data/MOOSE%20Roadmap.png)
+![The MOOSE Research Line](../assets/MOOSE_Roadmap.png)
 
 Below are the main works in this line and their contributions.
 
