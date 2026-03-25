@@ -25,11 +25,15 @@ My representative works are the MOOSE series (MOOSE, MOOSE-Chem 1/2/3, MOOSE-Sta
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
 <!--**I will be on the job market in June 2025! Feel free to reach out if you’re interested in my research or have relevant opportunities.**-->
 <!--I will be in the academic and industrial job market in June 2025! If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).-->
-**I am currently looking for interns to work on AI for Research. If you are interested, please send your CV to zonglin.yang@miromind.ai**.
+I am currently **looking for interns to work on AI for Research**. If you are interested, please send your CV to zonglin.yang@miromind.ai.
 
 Research
 ======
-My main research interest is **LLMs for scientific discovery**. Below are my representative works in this area and their main contributions.
+My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on the MOOSE series, which is summarized in the following figure.
+
+![The MOOSE Research Line](../_data/MOOSE%20Roadmap.png)
+
+Below are the main works in this line and their contributions.
 
   * [MOOSE](https://arxiv.org/abs/2309.02726) (ACL 2024)
     * The first work to show that LLMs can generate novel and valid scientific hypotheses.
