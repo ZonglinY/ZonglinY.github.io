@@ -29,7 +29,7 @@ I am currently **looking for interns to work on AI for Research**. If you are in
 
 Research
 ======
-My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on the MOOSE series, which is summarized in the following figure.
+My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on the MOOSE series. The following figure provides a structural overview of this research line, with arrows indicating major research connections such as conceptual influence, methodological borrowing, or task-enabling relationships.
 
 <p align="center">
   <img src="/assets/MOOSE_Roadmap.png" alt="The MOOSE Research Line" width="950">
