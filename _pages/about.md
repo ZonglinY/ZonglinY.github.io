@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, thanks for stopping by.
 
-I am **Zonglin Yang**, a research scientist at [MiroMind](https://miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
+I am **Zonglin Yang**, a research scientist at [MiroMind AI](https://miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
 
 Previously, I completed my Ph.D. at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also work closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/), and at MiroMind mentored by [Lidong Bing](https://lidongbing.github.io/). I was also a visiting student at Princeton University host by [Mengdi Wang](https://mwang.princeton.edu/).
 
@@ -25,41 +25,41 @@ My representative works are the MOOSE series (MOOSE, MOOSE-Chem 1/2/3, MOOSE-Sta
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
 <!--**I will be on the job market in June 2025! Feel free to reach out if you’re interested in my research or have relevant opportunities.**-->
 <!--I will be in the academic and industrial job market in June 2025! If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).-->
-**I am currently looking for interns to work on LLM-accelerated scientific discovery. If you are interested, please send your CV to zonglin.yang@miromind.ai**.
+**I am currently looking for interns to work on AI for Research. If you are interested, please send your CV to zonglin.yang@miromind.ai**.
 
 Research
 ======
-My current research interests are:  
-* LLMs for Scientific Discovery
+My main research interest is **LLMs for scientific discovery**. Below are my representative works in this area and their main contributions.
+
   * [MOOSE](https://arxiv.org/abs/2309.02726) (ACL 2024)
-    * The first work showing that LLMs can be leveraged to generate novel and valid scientific hypothesis.
+    * The first work to show that LLMs can generate novel and valid scientific hypotheses.
   * [MOOSE-Chem](https://arxiv.org/abs/2410.07076) (ICLR 2025)
-    * Provide a mathematically proved theoretical foundation on automated scientific hypothesis discovery.
-    * The first work showing that LLMs can rediscover the main innovations of many research hypotheses published in Nature or Science.
+    * Provides a mathematically grounded theoretical foundation for automated scientific hypothesis discovery.
+    * The first work to show that LLMs can rediscover the main innovations behind many research hypotheses published in *Nature* or *Science*.
   * [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) (NeurIPS 2025)
-    * Introduce the task of *fine-grained scientific hypothesis discovery*, aiming for experimentally actionable hypothesis.
-    * Frame the task as an optimization problem, and propose hierarchical heuristic search that can theoretically smoothen the optimization landscape to reach to better local optimum.
+    * Introduces the task of *fine-grained scientific hypothesis discovery*, aiming to generate experimentally actionable hypotheses.
+    * Frames the task as an optimization problem, and proposes hierarchical heuristic search to theoretically smooth the optimization landscape and reach better local optima.
   * [MOOSE-Chem3](https://arxiv.org/abs/2505.17873)
-    * Introduce the task of *experiment-guided ranking*, which bridges automated scientific hypothesis discovery and experimental feedback.
-    * Propose an experimental simulator that enables scalable research of *experiment-guided ranking* without relying on real wet-lab experiments.
+    * Introduces the task of *experiment-guided ranking*, bridging automated scientific hypothesis discovery and experimental feedback.
+    * Proposes an experimental simulator that enables scalable research on *experiment-guided ranking* without relying on real wet-lab experiments.
   * [MOOSE-Star](https://arxiv.org/abs/2603.03756)
-    * The first training recipe on how to enable the tractable and scalable training of P(hypothesis \| research background).
-    * Provide an inference recipe that supports more scalable test-time inference for discovery.
+    * The first training recipe that enables tractable and scalable learning of P(hypothesis \| research background).
+    * Provides an inference recipe that supports more scalable test-time inference for discovery.
   * [ResearchBench](https://arxiv.org/pdf/2503.21248)
     * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.
-    * It suggests that LLMs can serve as research hypothesis mines, with stronger LLMs acting as richer mines and greater inference compute enabling more miners.
+    * Suggests that LLMs can serve as research hypothesis mines, where stronger LLMs act as richer mines and greater inference compute enables more miners.
   * [Survey](https://arxiv.org/pdf/2501.04306)
-    * The first comprehensive survey on how LLMs can assist scientific research.
+    * The first comprehensive survey of how LLMs can assist scientific research.
 
 <!-- [NoveltyBench](https://arxiv.org/abs/2505.24615)  The first benchmark for evaluating the novelty of a scientific hypothesis.-->
   
 <!--* Alignment of LLMs.-->
-* Reasoning & Knowledge in Natural Language Processing
-  * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) (EACL 2024)
+<!--* Reasoning & Knowledge in Natural Language Processing
+  * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) (EACL 2024)-->
     <!--* The first work on language models for generative inductive reasoning.-->
-  * [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf)
+  <!--* [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf)
   * [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) (EACL 2023)
-  * [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) (EMNLP 2020)
+  * [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) (EMNLP 2020)-->
 
 <!-- More specifically about my past research: -->
 
