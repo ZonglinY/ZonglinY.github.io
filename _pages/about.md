@@ -12,14 +12,12 @@ Hi, thanks for stopping by.
 
 I am **Zonglin Yang**, a research scientist at [MiroMind AI](https://miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
 
-Previously, I completed my Ph.D. at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also work closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree at Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in NLC group mentored by [Li Dong](http://dong.li/), and at MiroMind mentored by [Lidong Bing](https://lidongbing.github.io/). I was also a visiting student at Princeton University host by [Mengdi Wang](https://mwang.princeton.edu/).
+Previously, I completed my Ph.D. at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also worked closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree from Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in the NLC group mentored by [Li Dong](http://dong.li/), and at MiroMind mentored by [Lidong Bing](https://lidongbing.github.io/). I was also a visiting student at Princeton University hosted by [Mengdi Wang](https://mwang.princeton.edu/).
 
 
 I try to focus on research questions that matter at a fundamental level, and to approach them with as much rigor and depth as I can. My goal is to make each new piece of research a little better than the last.
 
-My representative works are the MOOSE series (MOOSE, MOOSE-Chem 1/2/3, MOOSE-Star). 
-
-*Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
+<!--My representative works are the MOOSE series (MOOSE, MOOSE-Chem 1/2/3, MOOSE-Star). -->
 
 <!--I am open to academic collaborations and please drop me an email (<zonglin001@ntu.edu.sg>) if you are interested in collaborating with me.-->
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
@@ -34,6 +32,8 @@ My main research interest is **LLMs for scientific discovery**. Much of my work 
 <p align="center">
   <img src="/assets/MOOSE_Roadmap.png" alt="The MOOSE Research Line" width="950">
 </p>
+
+*Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
 
 Below are the main works in this line and their contributions.
 
@@ -59,13 +59,14 @@ Below are the main works in this line and their contributions.
 
 <!-- [NoveltyBench](https://arxiv.org/abs/2505.24615)  The first benchmark for evaluating the novelty of a scientific hypothesis.-->
   
-<!--* Alignment of LLMs.-->
-<!--* Reasoning & Knowledge in Natural Language Processing
+<!--
+* Reasoning & Knowledge in Natural Language Processing
   * [Inductive Reasoning](https://aclanthology.org/2024.eacl-long.13/) (EACL 2024)
-    * The first work on language models for generative inductive reasoning.-->
-  <!--* [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf)
+    * The first work on language models for generative inductive reasoning.
+  * [Logical Reasoning Survey](https://arxiv.org/pdf/2303.12023.pdf)
   * [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) (EACL 2023)
-  * [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) (EMNLP 2020)-->
+  * [Temporal Commonsense Reasoning](https://aclanthology.org/2020.findings-emnlp.302/) (EMNLP 2020)
+-->
 
 <!-- More specifically about my past research: -->
 
