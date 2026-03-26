@@ -35,7 +35,7 @@ My main research interest is **LLMs for scientific discovery**. Much of my work 
 
 *Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
 
-Below are the main works in this line and their contributions.
+Below are the main works in this line and some of their representative contributions.
 
   * [MOOSE](https://arxiv.org/abs/2309.02726) (ACL 2024)
     * The first work to show that LLMs can generate novel and valid scientific hypotheses.
