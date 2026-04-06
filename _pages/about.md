@@ -51,7 +51,7 @@ Below are the main works in this line and some of their representative contribut
   * [MOOSE-Star](https://arxiv.org/abs/2603.03756)
     * The first training recipe that enables tractable and scalable learning of P(hypothesis \| research background).
     * Provides an inference recipe that supports more scalable test-time inference for discovery.
-  * [ResearchBench](https://arxiv.org/pdf/2503.21248)
+  * [ResearchBench](https://arxiv.org/pdf/2503.21248) (ACL 2026)
     * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.
     * Suggests that LLMs can serve as research hypothesis mines, where stronger LLMs act as richer mines and greater inference compute enables more miners.
   * [Survey](https://arxiv.org/pdf/2501.04306)
@@ -99,6 +99,8 @@ Specifically I am interested in the following research topics:
 News
 ======
 <!--\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!-->
+
+\[2026.04]. [ResearchBench](https://arxiv.org/pdf/2503.21248) is accepted to **ACL 2026 (findings)**. Thanks to all my collaborators!
 
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
