@@ -30,7 +30,7 @@ Research
 My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on the MOOSE series. The following figure provides a structural overview of this research line, with arrows indicating major research connections such as conceptual influence, methodological borrowing, or task-enabling relationships.
 
 <p align="center">
-  <img src="/assets/MOOSE_Roadmap.png" alt="The MOOSE Research Line" width="950">
+  <img src="/assets/MOOSE_Roadmap.png?v=20260406" alt="The MOOSE Research Line" width="950">
 </p>
 
 *Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
