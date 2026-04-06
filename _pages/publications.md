@@ -34,7 +34,7 @@ Yan Liu, **Zonglin Yang**, Soujanya Poria, Thanh-Son Nguyen, Erik Cambria
 
 ## 2026
 * ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition  
-Yujie Liu*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
+Yujie Liu\*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
 *in Proc. of **ACL 2026 (Findings)***  
 [[pdf]](https://arxiv.org/pdf/2503.21248)  
 
