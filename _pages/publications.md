@@ -14,10 +14,6 @@ author_profile: true
 * MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback  
 Wanhao Liu\*, **Zonglin Yang**\*, Jue Wang, Lidong Bing, Di Zhang, Dongzhan Zhou, Yuqiang Li, Houqiang Li, Erik Cambria, Wanli Ouyang  
 [[pdf]](https://arxiv.org/pdf/2505.17873) [[code]](https://github.com/wanhaoliu/MOOSE-Chem3)
-
-* ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition  
-Yujie Liu*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
-[[pdf]](https://arxiv.org/pdf/2503.21248)  
   
 
 * LLM4SR: A Survey on Large Language Models for Scientific Research  
@@ -35,6 +31,12 @@ Yan Liu, **Zonglin Yang**, Soujanya Poria, Thanh-Son Nguyen, Erik Cambria
   
 
 # Publications
+
+## 2026
+* ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition  
+Yujie Liu*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
+*in Proc. of **ACL 2026 (Findings)***  
+[[pdf]](https://arxiv.org/pdf/2503.21248)  
 
 ## 2025
 * MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search  
