@@ -104,6 +104,8 @@ News
 
 \[2026.04]. [ResearchBench](https://arxiv.org/pdf/2503.21248) is accepted to **ACL 2026 (findings)**. Thanks to all my collaborators!
 
+\[2026.03]. Got one paper accepted to **CVPR 2026 (findings)**. Congrats to Wanhao!
+
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
 \[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/) at **AAAI 2026** on January 21th, stay tuned! 
