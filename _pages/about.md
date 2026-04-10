@@ -102,6 +102,8 @@ News
 ======
 <!--\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!-->
 
+\[2026.04]. I'll host a **tutorial** on *Theoretical Foundations and Scaling Training of Scientific Discovery* at [AI4X 2026](https://ai4x.cc/) in June!
+
 \[2026.04]. [ResearchBench](https://arxiv.org/pdf/2503.21248) is accepted to **ACL 2026 (findings)**. Thanks to all my collaborators!
 
 \[2026.03]. Got one paper accepted to **CVPR 2026 (findings)**. Congrats to Wanhao!
