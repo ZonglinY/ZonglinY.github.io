@@ -36,7 +36,12 @@ Yan Liu, **Zonglin Yang**, Soujanya Poria, Thanh-Son Nguyen, Erik Cambria
 * ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition  
 Yujie Liu\*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
 *in Proc. of **ACL 2026 (Findings)***  
-[[pdf]](https://arxiv.org/pdf/2503.21248)  
+[[pdf]](https://arxiv.org/pdf/2503.21248)
+
+* PolyReal: A Benchmark for Real-World Polymer Science Workflows   
+Wanhao Liu, Weida Wang, Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, Guangtao Mei, **Zonglin Yang**, Shufei Zhang, Yuchun Mo, Lang Cheng, Jin Zeng, Houqiang Li, Wanli Ouyang, Yuqiang Li  
+*in Proc. of **CVPR 2026 (Findings)***   
+[[pdf]](https://arxiv.org/abs/2604.02934)
 
 ## 2025
 * MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search  
