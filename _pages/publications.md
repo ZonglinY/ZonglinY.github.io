@@ -38,7 +38,7 @@ Yujie Liu\*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixi
 *in Proc. of **ACL 2026 (Findings)***  
 [[pdf]](https://arxiv.org/pdf/2503.21248)
 
-* MOOSE-Copilot: A Web-Based Interactive Assistant for Unified Exploratory- and Fine-Grained Scientific Hypothesis Discovery  
+* MOOSE-Copilot: A Web-Based Interactive Assistant for Unified Exploratory and Fine-Grained Scientific Hypothesis Discovery  
 Hongran An, **Zonglin Yang**†  
 *in Proc. of **ACL 2026 Demo***  
 [[website]](https://moosedemo.com/)
