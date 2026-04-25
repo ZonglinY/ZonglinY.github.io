@@ -32,7 +32,7 @@ Research
 My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on the MOOSE series. The following figure provides a structural overview of this research line, with arrows indicating major research connections such as conceptual influence, methodological borrowing, or task-enabling relationships.
 
 <p align="center">
-  <img src="/assets/MOOSE_Roadmap.png?v=20260407" alt="The MOOSE Research Line" width="950">
+  <img src="/assets/MOOSE_Roadmap.png?v=20260425" alt="The MOOSE Research Line" width="950">
 </p>
 
 *Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
@@ -101,6 +101,7 @@ Specifically I am interested in the following research topics:
 News
 ======
 <!--\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!-->
+\[2026.04]. MOOSE-Copilot is accepted to **ACL 2026 Demo**. Congrats to Hongran!
 
 \[2026.04]. I'll host a **tutorial** on *Theoretical Foundations and Scaling Training of Scientific Discovery* at [AI4X 2026](https://ai4x.cc/) in June!
 
