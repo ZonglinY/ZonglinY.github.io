@@ -36,7 +36,9 @@ The following figure provides a structural overview of the MOOSE research line. 
   <img src="/assets/MOOSE_Roadmap.png?v=20260425" alt="The MOOSE Research Line" width="950">
 </p>
 
-*Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*
+<!--*Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*-->
+
+*Like a moose venturing into uncharted wilderness, the MOOSE series explores the unknown frontiers of human knowledge to uncover hidden connections and new paths to discovery.*
 
 Below are the main works in this line and some of their representative contributions.
 
