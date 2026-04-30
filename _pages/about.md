@@ -104,76 +104,76 @@ Specifically I am interested in the following research topics:
 News
 ======
 
-- \[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. This marks a personal milestone: my first-author work on LLMs for scientific discovery has now been accepted by **ICLR**, **NeurIPS**, and **ICML**. Thanks to all my collaborators!
+\[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. This marks a personal milestone: my first-author work on LLMs for scientific discovery has now been accepted by **ICLR**, **NeurIPS**, and **ICML**. Thanks to all my collaborators!
 
-- \[2026.04]. MOOSE-Copilot is accepted to **ACL 2026 Demo**. Congrats to Hongran!
+\[2026.04]. MOOSE-Copilot is accepted to **ACL 2026 Demo**. Congrats to Hongran!
 
-- \[2026.04]. I'll host a **tutorial** on *Theoretical Foundations and Scaling Training of Scientific Discovery* at [AI4X 2026](https://ai4x.cc/) in June!
+\[2026.04]. I'll host a **tutorial** on *Theoretical Foundations and Scaling Training of Scientific Discovery* at [AI4X 2026](https://ai4x.cc/) in June!
 
-- \[2026.04]. [ResearchBench](https://arxiv.org/pdf/2503.21248) is accepted to **ACL 2026 (findings)**. Thanks to all my collaborators!
+\[2026.04]. [ResearchBench](https://arxiv.org/pdf/2503.21248) is accepted to **ACL 2026 (findings)**. Thanks to all my collaborators!
 
-- \[2026.03]. Got one paper accepted to **CVPR 2026 (findings)**. Congrats to Wanhao!
+\[2026.03]. Got one paper accepted to **CVPR 2026 (findings)**. Congrats to Wanhao!
 
 <!--\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!-->
 
-- \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
+\[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
-- \[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/) at **AAAI 2026** on January 21st, stay tuned! 
+\[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/) at **AAAI 2026** on January 21st, stay tuned! 
 
-- \[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery* at [AI4X](https://ai4x.cc/tutorials/) on July 7th!
+\[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery* at [AI4X](https://ai4x.cc/tutorials/) on July 7th!
 
 <!--\[2025.03]. Our preprint of [ResearchBench](https://arxiv.org/pdf/2503.21248) is out.  -->
 
-- \[2025.03]. I will take an **invited talk** at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th! The recording can be found in [here](https://iclr.cc/virtual/2025/33129). 
+\[2025.03]. I will take an **invited talk** at ICLR 2025 [Agentic AI4S workshop](https://iclragenticai.github.io/) on [MOOSE-Chem](https://arxiv.org/abs/2410.07076v4) on April 27th! The recording can be found in [here](https://iclr.cc/virtual/2025/33129). 
 
-- \[2025.02]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
+\[2025.02]. Got one paper accepted to **CVPR 2025**. Congrats to Di, Junxian, Jingdi, and Xunzhi!
 
-- \[2025.01]. I'm invited as an **Area Chair** in ACL Rolling Review (ARR)!
+\[2025.01]. I'm invited as an **Area Chair** in ACL Rolling Review (ARR)!
 
-- \[2025.01]. [MOOSE-Chem](https://arxiv.org/abs/2410.07076) is accepted to **ICLR 2025**. Thanks to all my collaborators!
+\[2025.01]. [MOOSE-Chem](https://arxiv.org/abs/2410.07076) is accepted to **ICLR 2025**. Thanks to all my collaborators!
 
 <!--\[2025.01]. Our preprint of [Survey on LLMs for Scientific Research](https://arxiv.org/pdf/2501.04306) is out.  -->
 
 <!--\[2024.10]. Our preprint of [Chemistry Scientific Discovery](https://arxiv.org/abs/2410.07076) is out.-->
 
-- \[2024.07]. [MOOSE](https://arxiv.org/abs/2309.02726) has won the **Best Poster Award** in ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24/award.html)! 
+\[2024.07]. [MOOSE](https://arxiv.org/abs/2309.02726) has won the **Best Poster Award** in ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24/award.html)! 
 
 <!--\[2024.06]. In summary, our [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) paper will be presented at ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html), IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/), ACL 2024 [NLRSE workshop](https://nl-reasoning-workshop.github.io/), ACL 2024 [KnowledgeLM workshop](https://knowledgeable-lm.github.io/), and [AI4Science and Nobel Turing Challenge Initiative Conference](https://ai4science.sg/ai4sci%2Fntci-conf#f870436a-eaa4-414b-a8c6-b89ba727fdb5)! So you know where to find me😆😆!-->
 
-- \[2024.05]. [MOOSE](https://arxiv.org/abs/2309.02726) is accepted to **ACL 2024**. Thanks to all my collaborators!  
+\[2024.05]. [MOOSE](https://arxiv.org/abs/2309.02726) is accepted to **ACL 2024**. Thanks to all my collaborators!  
 
 <!-- \[2024.01]. I will physically attend EACL 2024 at Malta! Please let me know if you want to chat with me! -->
 
 <!--\[2024.04]. I'm invited to be an area chair of ICML 2024 [AI4Science workshop](https://ai4sciencecommunity.github.io/icml24.html)!-->
 
-- \[2024.04]. I will take an **invited talk** at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on [MOOSE](https://arxiv.org/abs/2309.02726) on August 5th!  
+\[2024.04]. I will take an **invited talk** at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on [MOOSE](https://arxiv.org/abs/2309.02726) on August 5th!  
 
-<details markdown="1">
+<details markdown="1" style="margin-top: 1em; margin-bottom: 1.5em;">
 <summary><strong>Earlier news</strong></summary>
 
-- \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
+\[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
 
 <!-- \[2023.12]. I will physically attend EMNLP 2023 at Singapore! Please let me know if you want to chat with me! -->
 
-- \[2023.10]. Got one paper accepted to **EMNLP 2023**. Congrats to Wei!
+\[2023.10]. Got one paper accepted to **EMNLP 2023**. Congrats to Wei!
 
 <!--\[2023.09]. Our preprint of [LLM & Scientific Discovery](https://arxiv.org/abs/2309.02726) is out.-->
 
-- \[2023.06]. I will take an **invited talk** at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) paper on July 17th!  
+\[2023.06]. I will take an **invited talk** at ICCBR 2023 [TMG workshop](https://recap.uni-trier.de/workshops/tmg-2023/) on our [Case-based Reasoning](https://aclanthology.org/2023.eacl-main.255/) paper on July 17th!  
 
 <!--\[2023.05]. Our [Survey on Logical Reasoning](https://arxiv.org/pdf/2303.12023.pdf) will be present at ACL 2023 [NLRSE workshop](https://nl-reasoning-workshop.github.io/) (in a non-archival way) on July 13th!-->
 
-- \[2023.05]. Got one paper accepted to **ACL 2023**. Congrats to Jinjie!
+\[2023.05]. Got one paper accepted to **ACL 2023**. Congrats to Jinjie!
 
 <!-- \[2023.05]. Our inductive reasoning [paper](https://aclanthology.org/2024.eacl-long.13/) receives very [positive comments](https://docs.google.com/document/d/1wBUL8f3HtR_DN8loGR5IhDjQawrxOykv22-NW-dzZPY/edit?usp=sharing) from meta-reviewer in ACL 2023 but is rejected! (ACL 2023 excitement score pre-rebuttal: 4, 4, 2.5; after rebuttal: 4, 3.5, 2.5; ACL meta agrees with our rebuttal against r3; AAAI 2023 score: 7, 7, 4, 4) -->
 
 <!-- \[2023.04]. ~~I'm planning to physically attend EACL 2023!~~ Let me know if you want to chat with me ~~in Dubrovnik! (if I can successfully get the visa)~~ (No I can't get the visa!) -->
 
-- \[2023.04]. Our EACL 2023 [paper](https://aclanthology.org/2023.eacl-main.255/) will have an **oral** presentation!  
+\[2023.04]. Our EACL 2023 [paper](https://aclanthology.org/2023.eacl-main.255/) will have an **oral** presentation!  
 
-- \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
+\[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
 
-- \[2020.10]. Got one paper accepted to **EMNLP 2020 (findings)**. Thanks to all my collaborators!  
+\[2020.10]. Got one paper accepted to **EMNLP 2020 (findings)**. Thanks to all my collaborators!  
 
 </details>
 
