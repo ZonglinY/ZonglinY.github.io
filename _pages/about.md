@@ -104,7 +104,7 @@ Specifically I am interested in the following research topics:
 News
 ======
 
-\[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. Thanks to all my collaborators!
+\[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. This marks a personal milestone: my first-author work on LLMs for scientific discovery has now been accepted by **ICLR**, **NeurIPS**, and **ICML**. Thanks to all my collaborators!
 
 \[2026.04]. MOOSE-Copilot is accepted to **ACL 2026 Demo**. Congrats to Hongran!
 
@@ -118,7 +118,7 @@ News
 
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
-\[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/) at **AAAI 2026** on January 21th, stay tuned! 
+\[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/) at **AAAI 2026** on January 21st, stay tuned! 
 
 \[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery* at [AI4X](https://ai4x.cc/tutorials/) on July 7th!
 
@@ -148,6 +148,9 @@ News
 
 \[2024.04]. I will take an **invited talk** at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on [MOOSE](https://arxiv.org/abs/2309.02726) on August 5th!  
 
+<details>
+<summary><strong>Earlier news</strong></summary>
+
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
 
 <!-- \[2023.12]. I will physically attend EMNLP 2023 at Singapore! Please let me know if you want to chat with me! -->
@@ -171,6 +174,8 @@ News
 \[2023.01]. Got one paper accepted to **EACL 2023**. Thanks to all my collaborators!  
 
 \[2020.10]. Got one paper accepted to **EMNLP 2020 (findings)**. Thanks to all my collaborators!  
+
+</details>
 
 
 Academic Services
