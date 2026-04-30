@@ -33,7 +33,7 @@ My main research interest is **LLMs for scientific discovery**. Much of my work 
 The following figure provides a structural overview of the MOOSE research line. Solid arrows denote direct method-level enabling or extension, while dashed arrows denote relationships that expand or complement the problem/task scope, where one work motivates, broadens, or supports another research direction without directly extending its method.
 
 <p align="center">
-  <img src="/assets/MOOSE_Roadmap.png?v=20260425" alt="The MOOSE Research Line" width="950">
+  <img src="/assets/MOOSE_Roadmap.png?v=20260501" alt="The MOOSE Research Line" width="950">
 </p>
 
 <!--*Like the moose that ventures into uncharted wilderness, the MOOSE series explores the untamed landscape of scientific hypotheses to uncover hidden insights.*-->
