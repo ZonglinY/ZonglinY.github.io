@@ -6,10 +6,6 @@ author_profile: true
 ---
 
 # Preprint
-
-* MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier  
-**Zonglin Yang**, Lidong Bing  
-[[pdf]](https://arxiv.org/pdf/2603.03756) [[code]](https://github.com/ZonglinY/MOOSE-Star)
  
 * MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback  
 Wanhao Liu\*, **Zonglin Yang**\*, Jue Wang, Lidong Bing, Di Zhang, Dongzhan Zhou, Yuqiang Li, Houqiang Li, Erik Cambria, Wanli Ouyang  
@@ -33,6 +29,11 @@ Yan Liu, **Zonglin Yang**, Soujanya Poria, Thanh-Son Nguyen, Erik Cambria
 # Publications
 
 ## 2026
+* MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier  
+**Zonglin Yang**, Lidong Bing   
+*in Proc. of **ICML 2026***   
+[[pdf]](https://arxiv.org/pdf/2603.03756) [[code]](https://github.com/ZonglinY/MOOSE-Star)
+
 * ResearchBench: Benchmarking LLMs in Scientific Discovery via Inspiration-Based Task Decomposition  
 Yujie Liu\*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixiang Tang, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
 *in Proc. of **ACL 2026 (Findings)***  
