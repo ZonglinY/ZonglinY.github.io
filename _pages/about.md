@@ -53,7 +53,7 @@ Below are the main works in this line and some of their representative contribut
   * [MOOSE-Chem3](https://arxiv.org/abs/2505.17873)
     * Introduces the task of *experiment-guided ranking*, bridging automated scientific hypothesis discovery and experimental feedback.
     * Proposes an experimental simulator that enables scalable research on *experiment-guided ranking* without relying on real wet-lab experiments.
-  * [MOOSE-Star](https://arxiv.org/abs/2603.03756)
+  * [MOOSE-Star](https://arxiv.org/abs/2603.03756) (ICML 2026)
     * The first training recipe that enables tractable and scalable learning of P(hypothesis \| research background).
     * Provides an inference recipe that supports more scalable test-time inference for discovery.
   * [ResearchBench](https://arxiv.org/pdf/2503.21248) (ACL 2026)
@@ -103,7 +103,9 @@ Specifically I am interested in the following research topics:
 
 News
 ======
-<!--\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!-->
+
+\[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. Thanks to all my collaborators!
+
 \[2026.04]. MOOSE-Copilot is accepted to **ACL 2026 Demo**. Congrats to Hongran!
 
 \[2026.04]. I'll host a **tutorial** on *Theoretical Foundations and Scaling Training of Scientific Discovery* at [AI4X 2026](https://ai4x.cc/) in June!
@@ -111,6 +113,8 @@ News
 \[2026.04]. [ResearchBench](https://arxiv.org/pdf/2503.21248) is accepted to **ACL 2026 (findings)**. Thanks to all my collaborators!
 
 \[2026.03]. Got one paper accepted to **CVPR 2026 (findings)**. Congrats to Wanhao!
+
+<!--\[2025.11]. I have joined MiroMind as a full time Research Scientist! It is my first job ever!-->
 
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
