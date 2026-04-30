@@ -148,7 +148,7 @@ News
 
 \[2024.04]. I will take an **invited talk** at IJCAI 2024 [AI4Research workshop](https://ai4research.github.io/) on [MOOSE](https://arxiv.org/abs/2309.02726) on August 5th!  
 
-<details>
+<details markdown="1">
 <summary><strong>Earlier news</strong></summary>
 
 \[2024.01]. Got one paper accepted to **EACL 2024**. Thanks to all my collaborators!  
