@@ -106,7 +106,7 @@ News
 
 \[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. This marks a personal milestone: my first-author work on LLMs for scientific discovery has now been accepted by **ICLR**, **NeurIPS**, and **ICML**. Thanks to all my collaborators!
 
-\[2026.04]. MOOSE-Copilot is accepted to **ACL 2026 Demo**. Congrats to Hongran!
+\[2026.04]. [MOOSE-Copilot](https://moosedemo.com/) is accepted to **ACL 2026 Demo**. Congrats to Hongran!
 
 \[2026.04]. I'll host a **tutorial** on *Theoretical Foundations and Scaling Training of Scientific Discovery* at [AI4X 2026](https://ai4x.cc/) in June!
 
