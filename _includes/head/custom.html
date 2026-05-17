@@ -44,24 +44,32 @@
     endpoint: 'https://zonglin.goatcounter.com/count',
   };
 
-  // Track clicks on external links as events
-  window.addEventListener('load', function() {
+  function bindOutboundTracking() {
     document.querySelectorAll('a').forEach(function(link) {
+      if (link.dataset.gcBound) return;  // avoid double-binding
       var href = link.getAttribute('href');
       if (!href) return;
-      // Only external links (start with http and not your own domain)
-      if (/^https?:\/\//.test(href) && href.indexOf(location.hostname) === -1) {
-        link.addEventListener('click', function() {
-          if (window.goatcounter && window.goatcounter.count) {
-            window.goatcounter.count({
-              path:  'outbound: ' + href,
-              title: 'Click: ' + href,
-              event: true,
-            });
-          }
-        });
-      }
+      // Track external http(s) links + mailto links
+      var isExternal = /^https?:\/\//.test(href) && href.indexOf(location.hostname) === -1;
+      var isMailto   = /^mailto:/.test(href);
+      if (!isExternal && !isMailto) return;
+      link.dataset.gcBound = '1';
+      link.addEventListener('click', function() {
+        if (window.goatcounter && window.goatcounter.count) {
+          window.goatcounter.count({
+            path:  'outbound: ' + href,
+            title: 'Click: ' + href,
+            event: true,
+          });
+        }
+      });
     });
-  });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindOutboundTracking);
+  } else {
+    bindOutboundTracking();
+  }
 </script>
 <script data-goatcounter="https://zonglin.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
