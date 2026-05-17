@@ -39,4 +39,29 @@
 
 
 <!-- GoatCounter analytics -->
+<script>
+  window.goatcounter = {
+    endpoint: 'https://zonglin.goatcounter.com/count',
+  };
+
+  // Track clicks on external links as events
+  window.addEventListener('load', function() {
+    document.querySelectorAll('a').forEach(function(link) {
+      var href = link.getAttribute('href');
+      if (!href) return;
+      // Only external links (start with http and not your own domain)
+      if (/^https?:\/\//.test(href) && href.indexOf(location.hostname) === -1) {
+        link.addEventListener('click', function() {
+          if (window.goatcounter && window.goatcounter.count) {
+            window.goatcounter.count({
+              path:  'outbound: ' + href,
+              title: 'Click: ' + href,
+              event: true,
+            });
+          }
+        });
+      }
+    });
+  });
+</script>
 <script data-goatcounter="https://zonglin.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
