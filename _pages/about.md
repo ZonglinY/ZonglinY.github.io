@@ -29,7 +29,7 @@ I am currently **looking for interns to work on AI for Research** (base: Singapo
 
 Research
 ======
-My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on **the MOOSE series**.
+My main research interest is **LLMs for scientific discovery**. Much of my work in this area centers on the MOOSE series.
 
 The following figure provides a structural overview of the MOOSE research line. Solid arrows denote direct method-level enabling or extension, while dashed arrows denote relationships that expand or complement the problem/task scope, where one work motivates, broadens, or supports another research direction without directly extending its method.
 
