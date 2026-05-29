@@ -60,6 +60,9 @@ Below are the main works in this line and some of their representative contribut
   * [ResearchBench](https://arxiv.org/pdf/2503.21248) (ACL 2026)
     * The first large-scale benchmark for evaluating LLMs with a sufficient set of sub-tasks of scientific discovery: inspiration retrieval, hypothesis composition, and hypothesis ranking.
     * Suggests that LLMs can serve as research hypothesis mines, where stronger LLMs act as richer mines and greater inference compute enables more miners.
+  * [MOOSE-Copilot](https://arxiv.org/abs/2605.29475) (ACL 2026 Demo)
+    * The first HAII methodology to connect exploratory and fine-grained scientific hypothesis discovery.
+    * Operationalizes the protocol as a web-based system, lowering the barrier of agentic tools for non-CS domain experts.
   * [Survey](https://arxiv.org/pdf/2501.04306)
     * The first comprehensive survey of how LLMs can assist scientific research.
 
@@ -107,7 +110,7 @@ News
 
 \[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. This marks a personal milestone: my first-author work on LLMs for scientific discovery has now been accepted by **ICLR**, **NeurIPS**, and **ICML**. Thanks to all my collaborators!
 
-\[2026.04]. [MOOSE-Copilot](https://moosedemo.com/) is accepted to **ACL 2026 Demo**. Congrats to Hongran!
+\[2026.04]. [MOOSE-Copilot](https://arxiv.org/abs/2605.29475) is accepted to **ACL 2026 Demo**. Congrats to Hongran!
 
 \[2026.04]. I'll host a **tutorial** on *Theoretical Foundations and Scaling Training of Scientific Discovery* at [AI4X 2026](https://ai4x.cc/) in June!
 
