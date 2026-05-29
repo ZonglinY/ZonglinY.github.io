@@ -42,7 +42,7 @@ Yujie Liu\*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixi
 * MOOSE-Copilot: A Web-Based Interactive Assistant for Unified Exploratory and Fine-Grained Scientific Hypothesis Discovery  
 Hongran An, **Zonglin Yang**†  
 *in Proc. of **ACL 2026 Demo***  
-[[website]](https://moosedemo.com/)
+[[pdf]](https://arxiv.org/abs/2605.29475) [[website]](https://moosedemo.com/)
 
 * PolyReal: A Benchmark for Real-World Polymer Science Workflows   
 Wanhao Liu, Weida Wang, Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, Guangtao Mei, **Zonglin Yang**, Shufei Zhang, Yuchun Mo, Lang Cheng, Jin Zeng, Houqiang Li, Wanli Ouyang, Yuqiang Li  
