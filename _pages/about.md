@@ -25,7 +25,7 @@ I try to focus on research questions that matter at a fundamental level, and to 
 <!--**I am actively seeking internship opportunities in 2024. If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).**-->
 <!--**I will be on the job market in June 2025! Feel free to reach out if you’re interested in my research or have relevant opportunities.**-->
 <!--I will be in the academic and industrial job market in June 2025! If you have any openings available, kindly reach out to me via email (<zonglin.yang@ntu.edu.sg>).-->
-I am currently **looking for interns to work on AI for Research** (base: Singapore / US). If you are interested, please send your CV to zonglin.yang@miromind.ai.
+<!--I am currently **looking for interns to work on AI for Research** (base: Singapore / US). If you are interested, please send your CV to zonglin.yang@miromind.ai.-->
 
 Research
 ======
