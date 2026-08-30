@@ -49,6 +49,11 @@ Wanhao Liu, Weida Wang, Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, Guang
 *in Proc. of **CVPR 2026 (Findings)***   
 [[pdf]](https://arxiv.org/abs/2604.02934)
 
+* Large Language Models as Designers for Autonomous Research of Anisotropic Polymer Thermocells   
+Wanhao Liu, Jue Wang, **Zonglin Yang**, Haiyang Yuan, Weida Wang, Ben Gao, Qian Tan, Houqiang Li, Wanli Ouyang, Guangming Liu, Yuqiang Li, Zan Hua   
+*in Cell Reports Physical Science*   
+[[pdf]](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00408-X)
+
 ## 2025
 * MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search  
 **Zonglin Yang**, Wanhao Liu, Ben Gao, Yujie Liu, Wei Li, Tong Xie, Lidong Bing, Wanli Ouyang, Erik Cambria, Dongzhan Zhou  
