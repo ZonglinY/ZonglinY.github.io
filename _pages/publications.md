@@ -51,7 +51,7 @@ Wanhao Liu, Weida Wang, Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, Guang
 
 * Large Language Models as Designers for Autonomous Research of Anisotropic Polymer Thermocells   
 Wanhao Liu, Jue Wang, **Zonglin Yang**, Haiyang Yuan, Weida Wang, Ben Gao, Qian Tan, Houqiang Li, Wanli Ouyang, Guangming Liu, Yuqiang Li, Zan Hua   
-*in Cell Reports Physical Science*   
+*in **Cell Reports Physical Science***   
 [[pdf]](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00408-X)
 
 ## 2025
