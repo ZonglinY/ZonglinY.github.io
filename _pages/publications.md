@@ -10,15 +10,11 @@ author_profile: true
 * MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback  
 Wanhao Liu\*, **Zonglin Yang**\*, Jue Wang, Lidong Bing, Di Zhang, Dongzhan Zhou, Yuqiang Li, Houqiang Li, Erik Cambria, Wanli Ouyang  
 [[pdf]](https://arxiv.org/pdf/2505.17873) [[code]](https://github.com/wanhaoliu/MOOSE-Chem3)
-  
 
-* LLM4SR: A Survey on Large Language Models for Scientific Research  
-Ziming Luo\*, **Zonglin Yang**\*, Zexin Xu, Wei Yang, Xinya Du  
-[[pdf]](https://arxiv.org/pdf/2501.04306) [[github paper collection]](https://github.com/du-nlp-lab/LLM4SR)
 
-* Harnessing Large Language Models for Scientific Novelty Detection  
+<!--* Harnessing Large Language Models for Scientific Novelty Detection  
 Yan Liu, **Zonglin Yang**, Soujanya Poria, Thanh-Son Nguyen, Erik Cambria  
-[[pdf]](https://arxiv.org/abs/2505.24615)
+[[pdf]](https://arxiv.org/abs/2505.24615)-->
 
 
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
@@ -43,6 +39,11 @@ Yujie Liu\*, **Zonglin Yang**\*, Tong Xie, Jinjie Ni, Ben Gao, Yuqiang Li, Shixi
 Hongran An, **Zonglin Yang**†  
 *in Proc. of **ACL 2026 Demo***  
 [[pdf]](https://arxiv.org/abs/2605.29475) [[website]](https://moosedemo.com/)
+
+* LLM4SR: A Survey on Large Language Models for Scientific Research   
+Ziming Luo\*, **Zonglin Yang**\*, Zexin Xu, Wei Yang, Xinya Du   
+*in **ACM Computing Surveys***   
+[[pdf]](https://arxiv.org/pdf/2501.04306) [[github paper collection]](https://github.com/du-nlp-lab/LLM4SR)
 
 * PolyReal: A Benchmark for Real-World Polymer Science Workflows   
 Wanhao Liu, Weida Wang, Jiaqing Xie, Suorong Yang, Jue Wang, Benteng Chen, Guangtao Mei, **Zonglin Yang**, Shufei Zhang, Yuchun Mo, Lang Cheng, Jin Zeng, Houqiang Li, Wanli Ouyang, Yuqiang Li  
