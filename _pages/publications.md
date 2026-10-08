@@ -19,7 +19,7 @@ Yan Liu, **Zonglin Yang**, Soujanya Poria, Thanh-Son Nguyen, Erik Cambria
 
 * Logical Reasoning over Natural Language as Knowledge Representation: A Survey  
 **Zonglin Yang**, Xinya Du, Rui Mao, Jinjie Ni, Erik Cambria  
-[[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[LRNL-bench]](https://github.com/ZonglinY/LRNL-bench) (to come) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)  
+[[pdf]](https://arxiv.org/pdf/2303.12023.pdf) [[ACL 2023 NLRSE workshop poster]](https://github.com/ZonglinY/ZonglinY.github.io/blob/master/_data/_Poster__Logical_Reasoning_over_Natural_Language_as_Knowledge_Representation__A_Survey.pdf) (not archival)  
   
 
 # Publications
