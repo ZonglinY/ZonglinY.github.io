@@ -64,7 +64,7 @@ Below are the main works in this line and some of their representative contribut
   * [MOOSE-Copilot](https://arxiv.org/abs/2605.29475) (ACL 2026 Demo)
     * The first HAII methodology to connect exploratory and fine-grained scientific hypothesis discovery.
     * Operationalizes the protocol as a web-based system, lowering the barrier of agentic tools for non-CS domain experts.
-  * [Survey](https://arxiv.org/pdf/2501.04306)
+  * [Survey](https://arxiv.org/pdf/2501.04306) (ACM Computing Surveys)
     * The first comprehensive survey of how LLMs can assist scientific research.
 
 <!-- [NoveltyBench](https://arxiv.org/abs/2505.24615)  The first benchmark for evaluating the novelty of a scientific hypothesis.-->
@@ -108,6 +108,7 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2026.10]. Our [LLM4SR survey](https://arxiv.org/pdf/2501.04306) has been accepted to **ACM Computing Surveys**! Thanks to all my collaborators!
 
 \[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. This marks a personal milestone: my first-author work on LLMs for scientific discovery has now been accepted by **ICLR**, **NeurIPS**, and **ICML**. Thanks to all my collaborators!
 
