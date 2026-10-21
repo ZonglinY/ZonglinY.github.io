@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, thanks for stopping by.
 
-I am **Zonglin Yang**, a research scientist at [MiroMind](https://www.miromind.ai/), where I work on LLMs for scientific discovery and large reasoning models.
+I am **Zonglin Yang**. My research focuses on **LLMs for scientific discovery**. I explore how to formulate scientific discovery as structured search and optimization, and how to learn the discovery process at scale.
 
-Previously, I completed my Ph.D. at Nanyang Technological University supervised by [Erik Cambria](https://sentic.net/erikcambria/). I also worked closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree from Cornell University, supervised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree at Huazhong University of Science and Technology, supervised by [Xinggang Wang](https://xwcv.github.io/). I have interned at Microsoft Research in the NLC group mentored by [Li Dong](http://dong.li/), and at MiroMind mentored by [Lidong Bing](https://lidongbing.github.io/).
+I received my Ph.D. from Nanyang Technological University, advised by [Erik Cambria](https://sentic.net/erikcambria/). I also worked closely with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree from Cornell University, advised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree from Huazhong University of Science and Technology, advised by [Xinggang Wang](https://xwcv.github.io/). I interned in the NLC group at Microsoft Research, mentored by [Li Dong](http://dong.li/), and at MiroMind, mentored by [Lidong Bing](https://lidongbing.github.io/).
 
 
 <!--I was also a visiting student at Princeton University hosted by [Mengdi Wang](https://mwang.princeton.edu/).-->
@@ -108,6 +108,8 @@ Specifically I am interested in the following research topics:
 
 News
 ======
+\[2026.10]. I'll host a **tutorial** on [*Frontiers of LLMs for Automated Scientific Discovery*](https://agent4sd.io/) at **AAAI 2027**, stay tuned! 
+
 \[2026.10]. Our [LLM4SR survey](https://arxiv.org/pdf/2501.04306) has been accepted to **ACM Computing Surveys**! Thanks to all my collaborators!
 
 \[2026.05]. [MOOSE-Star](https://arxiv.org/abs/2603.03756) is accepted to **ICML 2026**. This marks a personal milestone: my first-author work on LLMs for scientific discovery has now been accepted by **ICLR**, **NeurIPS**, and **ICML**. Thanks to all my collaborators!
@@ -124,7 +126,7 @@ News
 
 \[2025.09]. [MOOSE-Chem2](https://arxiv.org/abs/2505.19209) is accepted to **NeurIPS 2025**. Thanks to all my collaborators!
 
-\[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/) at **AAAI 2026** on January 21st, stay tuned! 
+\[2025.09]. I'll host a **tutorial** on [*Agentic AI for Scientific Discovery*](https://agent4sd.io/2026/) at **AAAI 2026** on January 21st, stay tuned! 
 
 \[2025.05]. I'll host a **tutorial** on *Critical Works on LLMs for Scientific Discovery* at [AI4X](https://ai4x.cc/tutorials/) on July 7th!
 
