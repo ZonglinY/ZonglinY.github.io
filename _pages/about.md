@@ -12,7 +12,7 @@ Hi, thanks for stopping by.
 
 I am **Zonglin Yang**. My research focuses on **LLMs for scientific discovery**. I explore how to formulate scientific discovery as structured search and optimization, and how to learn the discovery process at scale.
 
-I received my Ph.D. from Nanyang Technological University, advised by [Erik Cambria](https://sentic.net/erikcambria/). Before NTU, I obtained my master's degree from Cornell University, advised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree from Huazhong University of Science and Technology, advised by [Xinggang Wang](https://xwcv.github.io/). I interned in the NLC group at Microsoft Research, mentored by [Li Dong](http://dong.li/), and at MiroMind, mentored by [Lidong Bing](https://lidongbing.github.io/).
+I received my Ph.D. from Nanyang Technological University, advised by [Erik Cambria](https://sentic.net/erikcambria/). I also have worked with [Soujanya Poria](https://soujanyaporia.github.io/). Before NTU, I obtained my master's degree from Cornell University, advised by [Claire Cardie](https://www.cs.cornell.edu/home/cardie/) and [Xinya Du](https://xinyadu.github.io/), and my bachelor's degree from Huazhong University of Science and Technology, advised by [Xinggang Wang](https://xwcv.github.io/). I interned in the NLC group at Microsoft Research, mentored by [Li Dong](http://dong.li/), and at MiroMind, mentored by [Lidong Bing](https://lidongbing.github.io/).
 <!--I also have worked with [Soujanya Poria](https://soujanyaporia.github.io/). -->
 
 
